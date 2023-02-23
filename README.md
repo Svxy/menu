@@ -1,0 +1,1 @@
+## This site is simply a redirect link to my menu repo
