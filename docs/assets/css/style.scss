@@ -270,6 +270,10 @@ button a {
     font-family: OpenSansBold;
 }
 
+button a:hover {
+    color: #858585;
+}
+
 
 textarea {
     overflow: auto;
