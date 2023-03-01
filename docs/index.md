@@ -23,6 +23,7 @@
 <br><br>
 
 <h2 align=center>Full Features List:</h2>
+<p align=center><sup>Styling options are limited with the GitHub Pages Midnight Theme</sup></p>
 
 <br>
   
@@ -52,12 +53,12 @@
     - Random Props
   - Globals
     - Get BST
-    - <input type="checkbox"/> Off Radar
-    - <input type="checkbox"/> Cops Turn Blind Eye
-    - <input type="checkbox"/> No Orbital Cannon Cooldown
+    - Off Radar
+    - Cops Turn Blind Eye
+    - No Orbital Cannon Cooldown
     - Request Service (RC, MOC, Terrorbyte etc)
   - Animations
-    - <input type="checkbox"/> Controllable
+    - Controllable
     - Stop Animation
     - Animations (Sex, Pole Dance, Workouts etc)
     - Scenarios
@@ -78,18 +79,18 @@
       - Low Quality
       - Blurry
       - "Fucked Up" Screen
-  - <input type="checkbox"/> God mode
+  - God mode
   - Health
   - Max Health
-  - <input type="checkbox"/> No Ragdoll
+  - No Ragdoll
   - Jump (1-3)
   - Sprint Speed (1-3)
   - Invisibility (1-4)
-  - <input type="checkbox"/> Never Wanted
+  - Never Wanted
   - Wanted Level
-  - <input type="checkbox"/> Explosive Melee
-  - <input type="checkbox"/> Tiny Player
-  - <input type="checkbox"/> Super Man
+  - Explosive Melee
+  - Tiny Player
+  - Super Man
   - Opacity
   - Suicide
   - Clean
@@ -101,35 +102,35 @@
     - Max Upgrade All Weapons
     - Max Upgrade Current Weapon
   - Auto
-    - <input type="checkbox"/> Auto Get All Weapons
-    - <input type="checkbox"/> Auto Get All Weapon Upgrades
+    - Auto Get All Weapons
+    - Auto Get All Weapon Upgrades
   - Color
-    - <input type="checkbox"/> Rainbow Gun
+    - Rainbow Gun
   - Visuals
-    - <input type="checkbox"/> Weapon Invisibility
-    - <input type="checkbox"/> Crosshair
-    - <input type="checkbox"/> Crosshair -> ADS Only
-    - <input type="checkbox"/> Entity Information Gun
+    - Weapon Invisibility
+    - Crosshair
+    - Crosshair -> ADS Only
+    - Entity Information Gun
   - Ammo Modifications
     - Impact (1-6)
     - Custom (1-5)
     - Particle (1-2)
   - Options
-    - <input type="checkbox"/> Delete Gun
-    - <input type="checkbox"/> Nerf Bullets
+    - Delete Gun
+    - Nerf Bullets
   - Shoot Entities
-    - <input type="checkbox"/> Toggle
+    - Toggle
     - Current: (Entity)
     - Custom Entity
   - General
-    - <input type="checkbox"/> No Reload
-    - <input type="checkbox"/> Infinite Ammo
-    - <input type="checkbox"/> Rapid Fire
-    - <input type="checkbox"/> Bypass Sticky Bomb Limit
-    - <input type="checkbox"/> One Shot One Kill
+    - No Reload
+    - Infinite Ammo
+    - Rapid Fire
+    - Bypass Sticky Bomb Limit
+    - One Shot One Kill
   - Triggerbot (1-4)
   - Entity Control
-    - <input type="checkbox"/> Gravity Gun
+    - Gravity Gun
     - Entity Distance
 - Vehicle
   - Los Santos Customs
@@ -175,8 +176,8 @@
       - Open (1-8)
       - Close (1-8)
   - Weapons
-    - <input type="checkbox"/> Toggle
-    - <input type="checkbox"/> Show Lines
+    - Toggle
+    - Show Lines
     - Current: (Weapon)
     - Tank Rounds
     - Vehicle Rockets
@@ -184,20 +185,20 @@
   - Delete Current
   - Flip Up
   - Set Max Speed
-  - <input type="checkbox"/> Invincibility
-  - <input type="checkbox"/> Invisibility
-  - <input type="checkbox"/> Horn Boost
-  - <input type="checkbox"/> Unlimited Rocket Boost
+  - Invincibility
+  - Invisibility
+  - Horn Boost
+  - Unlimited Rocket Boost
   - Speedometer (1-4)
-  - <input type="checkbox"/> Rainbow Colors
-  - <input type="checkbox"/> Drive On Water
-  - <input type="checkbox"/> Super Brakes
+  - Rainbow Colors
+  - Drive On Water
+  - Super Brakes
   
 <br>
 
-<h2 align=center><span style="color: #ffcc00;">&#9888;List Currently Under Work&#9888;</span></h2>
+<h1 align=center><span style="color: #ffcc00;">&#9888; List Currently Under Work &#9888;</span></h1>
 
-<h4 align=center><sup>I apologize for the lack of detail on this list, it's going to take me hours to reformat it for GitHub Pages from the original <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu#readme' target='_blank'>README</a>, and I dont quite have the time today to finish it up. For now, why not check the menu out yourself? Give it a download along with my injector, and maybe give me some feedback!<br><br>Discord: <span style="color: #ffcc00;">tnyavnto#0420</span></sup></h4>
+<h2 align=center><sup>I apologize for the lack of detail on this list, it's going to take me hours to reformat it for GitHub Pages from the original <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu#readme' target='_blank'>README</a>, and I dont quite have the time today to finish it up. For now, why not check the menu out yourself? Give it a download along with my injector, and maybe give me some feedback!<br><br>Discord: <span style="color: #ffcc00;">tnyavnto#0420</span></sup></h2>
 
 <!-- Spawn Start -->
 <!--
@@ -218,15 +219,15 @@
    
 <br>
    
-   <input type="checkbox"/> Spawn Inside
+   Spawn Inside
    
-   <input type="checkbox"/> Spawn Invincible
+   Spawn Invincible
    
-   <input type="checkbox"/> Spawn Max Upgraded
+   Spawn Max Upgraded
    
-   <input type="checkbox"/> Delete Current
+   Delete Current
    
-   <input type="checkbox"/> Spawn Air Vehicles In The Air
+   Spawn Air Vehicles In The Air
    
    - License Plate Text (1-4)
    
@@ -257,7 +258,7 @@
   
   - To Waypoint
   
-  <input type="checkbox"/> Automatic Waypoint Teleport
+  Automatic Waypoint Teleport
   
   - Into Personal Vehicle
   
@@ -277,7 +278,7 @@
   
   Presets
   
-  <input type="checkbox"/> Teleport Transition
+  Teleport Transition
   
   - Teleport to Cayo Perico Island
   
@@ -356,9 +357,9 @@
   
   Miscellaneous
   
-  <input type="checkbox"/> Slow Motion
+  Slow Motion
   
-  <input type="checkbox"/> Pause Time
+  Pause Time
 </select>
   
 <select>
@@ -418,11 +419,11 @@
   
 </select>
   
-  <input type="checkbox"/> Snow
+  Snow
   
-  <input type="checkbox"/> No Gravity
+  No Gravity
   
-  <input type="checkbox"/> Blackout
+  Blackout
   
   - Clear Area
   
@@ -447,7 +448,7 @@
  
 <br>
     
- <input type="checkbox"/> Spectate
+ Spectate
    
  - Host Kick
    
@@ -541,11 +542,11 @@
   
 </select>
   
-  <input type="checkbox"/> Explode
+  Explode
   
-  <input type="checkbox"/> Freeze
+  Freeze
   
-  <input type="checkbox"/> Shake Camera
+  Shake Camera
   
   - Set Off Vehicle Alarm
   
@@ -585,11 +586,11 @@
   
 <br>
   
-  <input type="checkbox"/> Exclude Self
+  Exclude Self
   
-  <input type="checkbox"/> Exclude Friends
+  Exclude Friends
   
-  <input type="checkbox"/> Exclude Host
+  Exclude Host
   
 </select>
   
@@ -601,7 +602,7 @@
   
   - Teleport to Eclipse Tower
   
-  <input type="checkbox"/> Freeze
+  Freeze
   
   - Kick Out Of Vehicle
   
@@ -622,7 +623,7 @@
   
 <br>
   
-  <input type="checkbox"/> Lock To Friends
+  Lock To Friends
   
   Join/Change
   
@@ -653,70 +654,70 @@
   
   Protection
   
-  <input type="checkbox"/> Block Reports
+  Block Reports
   
 <select>
   <option>Script Events</option>
   
 <br>
   
-  <input type="checkbox"/> Block All
+  Block All
   
   Script Events
   
-  <input type="checkbox"/> Kicks
+  Kicks
   
-  <input type="checkbox"/> CEO Ban
+  CEO Ban
   
-  <input type="checkbox"/> CEO Kick
+  CEO Kick
   
-  <input type="checkbox"/> CEO Money
+  CEO Money
   
-  <input type="checkbox"/> Property Teleport
+  Property Teleport
   
-  <input type="checkbox"/> Cayo Perico Teleport
+  Cayo Perico Teleport
   
-  <input type="checkbox"/> Force Into Mission
+  Force Into Mission
   
-  <input type="checkbox"/> Bounty
+  Bounty
   
-  <input type="checkbox"/> Clear Wanted Level
+  Clear Wanted Level
   
-  <input type="checkbox"/> Game Banner
+  Game Banner
   
-  <input type="checkbox"/> Crash
+  Crash
   
-  <input type="checkbox"/> Personal Vehicle Destroyed
+  Personal Vehicle Destroyed
   
-  <input type="checkbox"/> Remote Off Radar
+  Remote Off Radar
   
-  <input type="checkbox"/> Send To Cutscene
+  Send To Cutscene
   
-  <input type="checkbox"/> Send To Location
+  Send To Location
   
-  <input type="checkbox"/> Sound Spam
+  Sound Spam
   
-  <input type="checkbox"/> Spectate
+  Spectate
   
-  <input type="checkbox"/> SMS
+  SMS
   
-  <input type="checkbox"/> TSE Start
+  TSE Start
   
-  <input type="checkbox"/> Notification
+  Notification
   
-  <input type="checkbox"/> Interior Control
+  Interior Control
   
-  <input type="checkbox"/> Interior Kick
+  Interior Kick
   
-  <input type="checkbox"/> Transaction Error
+  Transaction Error
   
-  <input type="checkbox"/> CEO Raid
+  CEO Raid
   
-  <input type="checkbox"/> Start Activity
+  Start Activity
   
-  <input type="checkbox"/> Give Collectable
+  Give Collectable
   
-  <input type="checkbox"/> Warehouse Teleport
+  Warehouse Teleport
   
 </select>
   
@@ -756,7 +757,7 @@
   
   Money
   
-  <input type="checkbox"/> Loop
+  Loop
   
   Unlocks
   
@@ -837,13 +838,13 @@
   
 <br>
   
-  <input type="checkbox"/> Idle Kick
+  Idle Kick
   
-  <input type="checkbox"/> Transaction Error Warnings
+  Transaction Error Warnings
   
-  <input type="checkbox"/> Cutscenes
+  Cutscenes
   
-  <input type="checkbox"/> Mobile Phone
+  Mobile Phone
   
 </select>
   <!-- -
@@ -856,7 +857,7 @@
   
   Strings
   
-  <input type="checkbox"/> (added strings)
+  (added strings)
   
 </select>
   <!-- 
@@ -865,7 +866,7 @@
   
 <br>
   
-  <input type="checkbox"/> Draw TV
+  Draw TV
   
   Playlist
   
@@ -880,9 +881,9 @@
   
   - Skip Track
   
-  <input type="checkbox"/> Freeze Station
+  Freeze Station
   
-  <input type="checkbox"/> Mobile Radio
+  Mobile Radio
   
 </select>
   <!-- 
@@ -891,7 +892,7 @@
   
 <br>
   
-  <input type="checkbox"/> Basic Player ESP
+  Basic Player ESP
   
 </select>
   <!-- 
@@ -900,9 +901,9 @@
   
 <br>
   
-  <input type="checkbox"/> Disable HUD
+  Disable HUD
   
-  <input type="checkbox"/> Hide Minimap
+  Hide Minimap
   
   Color
   
@@ -951,13 +952,13 @@
   
   - Fake Wanted Level
   
-  <input type="checkbox"/> No-Clip
+  No-Clip
   
-  <input type="checkbox"/> Jump Around Mode
+  Jump Around Mode
   
-  <input type="checkbox"/> Show Joining Players Notification
+  Show Joining Players Notification
   
-  <input type="checkbox"/> Show FPS
+  Show FPS
   
   - Drive To Waypoint
   
@@ -989,13 +990,13 @@
   
   Header
   
-  <input type="checkbox"/> Texture
+  Texture
   
-  <input type="checkbox"/> Background
+  Background
   
   Color
   
-  <input type="checkbox"/> RGB Disco
+  RGB Disco
   
   - Primary
   
@@ -1007,7 +1008,7 @@
   
   Menu
   
-  <input type="checkbox"/> Disable Open/Close Fade
+  Disable Open/Close Fade
   
   - X-Axis
   
@@ -1034,17 +1035,17 @@
   
 <br>
   
-  <input type="checkbox"/> Selectable Information Box
+  Selectable Information Box
   
-  <input type="checkbox"/> Player Information Box
+  Player Information Box
   
-  <input type="checkbox"/> Vehicle Preview
+  Vehicle Preview
   
 </select>
   
   - Max Visible Menu Selectables
   
-  <input type="checkbox"/> Restore To Previous Submenu
+  Restore To Previous Submenu
   
   Keys
   
@@ -1058,13 +1059,13 @@
   
   - Menu Arrow Animation Delay
   
-  <input type="checkbox"/> Gameplay While Cursor Is Active
+  Gameplay While Cursor Is Active
   
-  <input type="checkbox"/> Safe Mode
+  Safe Mode
   
-  <input type="checkbox"/> Disable Cursor When Menu Gets Closed
+  Disable Cursor When Menu Gets Closed
   
-  <input type="checkbox"/> Do not overwrite "Textures.ytd" at init
+  Do not overwrite "Textures.ytd" at init
   
 <select>
   <option>About</option>
