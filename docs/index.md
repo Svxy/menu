@@ -29,7 +29,11 @@ layout: default
 <h2 align=center>Full Features List:</h2>
 <p align=center><sup>Styling options are limited with the GitHub Pages Midnight Theme (No dropdown menu)</sup></p>
 
-<br><br>
+<br><a id='top_of_list'>
+
+<button><a href='bottom_of_list'>Jump To Bottom</a></button>
+
+<br>
   
 <li>Self</li>
 <li>Model</li>
@@ -515,6 +519,10 @@ layout: default
 <li>Visit GitHub Repository</li>
 <li>Unload Cheat</li>
 
-<br><br>
+<br><a id='bottom_of_list'>
+
+<button><a href='top_of_list'>Jump To Top</a></button>
+
+<br>
     
 <h3 align=center>This project licensed under the <a href='./LICENSE'>Apache-2.0 license</a>.</h3>
