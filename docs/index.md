@@ -147,26 +147,26 @@
       - Secondary Color: Green
       - Secondary Color: Blue
       - Set Secondary Color
-      - Neon
-        - Enable Neons
-        - Disable Neons
-        - Neon Color: Red
-        - Neon Color: Green
-        - Neon Color: Blue
-        - Set Neon Color
-      - Neon Presets
-        - Red
-        - Green
-        - Blue
-        - Hot Pink
-        - Yellow
-        - Orange
-        - Aqua
-        - White
-        - Magenta
-        - Purple
-        - Dark Green
-        - Rose Red
+    - Neon
+      - Enable Neons
+      - Disable Neons
+      - Neon Color: Red
+      - Neon Color: Green
+      - Neon Color: Blue
+      - Set Neon Color
+    - Neon Presets
+      - Red
+      - Green
+      - Blue
+      - Hot Pink
+      - Yellow
+      - Orange
+      - Aqua
+      - White
+      - Magenta
+      - Purple
+      - Dark Green
+      - Rose Red
     - Multipliers
       - Engine Multiplier
       - Engine Torque Multiplier
@@ -1084,7 +1084,5 @@
 -->
 
 <br>
-    
-___
     
 <h3 align=center>This project licensed under the <a href='./LICENSE'>Apache-2.0 license</a>.</h3>
