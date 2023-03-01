@@ -50,7 +50,7 @@
     - Miscellaneous
     - Random Components
     - Random Props
-  - Globals</option>
+  - Globals
     - Get BST
     - <input type="checkbox"/> Off Radar
     - <input type="checkbox"/> Cops Turn Blind Eye
@@ -94,7 +94,7 @@
   - Suicide
   - Clean
 - Weapons
-  - Weapons</option>
+  - Weapons
     - Get All Weapons
     - Clear All Weapons
   - Upgrades
@@ -132,7 +132,7 @@
     - <input type="checkbox"/> Gravity Gun
     - Entity Distance
 - Vehicle
-  - Los Santos Customs</option>
+  - Los Santos Customs
     - Repair  
     - Clean
     - Max Upgrade
@@ -147,7 +147,7 @@
       - Secondary Color: Green
       - Secondary Color: Blue
       - Set Secondary Color
-      - Neon</option>
+      - Neon
         - Enable Neons
         - Disable Neons
         - Neon Color: Red
