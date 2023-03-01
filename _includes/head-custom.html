@@ -7,7 +7,7 @@
     <meta name="pinterest" content="nopin" description="Sorry, you can't save from our website!">
     <link rel="icon" href="../assets/icon.png">
     <link rel="icon" sizes="192x192" href="../assets/icon.png">
-    <link rel="apple-touch-icon" href="../assets/icon.ico>
+    <link rel="apple-touch-icon" href="../assets/icon.ico">
     <!--Facebook Shit-->
     <meta property="og:url" content="https://tnyavnto.com/menu">
     <meta property="og:type" content="website">
@@ -35,11 +35,13 @@
         Enable JavaSript for the best experience on this site.
       </noscript>
     <!--End Twitter card-->
-    
+
 {% seo %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     {% include head-custom-google-analytics.html %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.scss?v=' | append: site.github.build_revision | relative_url }}">
 
   </head>

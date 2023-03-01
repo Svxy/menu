@@ -191,6 +191,7 @@ ___
   
   - <sup>Clean</sup>
 </details>
+
 <!-- Self End -->
   
 <!-- Weapons  Start -->
@@ -286,6 +287,7 @@ ___
   
   - <sup>Entity Distance</sup>
 </details>
+
 <!-- Weapons End -->
   
 <!-- Vehicle Start -->
