@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h4 align=center>Now has Nightclub Safe loop - $250k/4sec</h4>
 
 <p align=center>NOTE: Recovery Submenu locked until Safe Mode is turned off in settings.</p>
