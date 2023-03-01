@@ -1,1 +1,1 @@
-## This site is a simple site with midnight gh pages template for my <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu' target='_blank'>GTA 5 Mod Menu</a>
+## This site is a simple site with hacker gh pages template for my <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu' target='_blank'>GTA 5 Mod Menu</a>
