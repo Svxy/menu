@@ -33,158 +33,158 @@ layout: default
   
 <li>Self</li>
 <li>Model</li>
-<ol>Custom Input</ol>
-<ol>Search</ol>
-<ol>(Ped list - 1000+ Peds)</ol>
+<ul>Custom Input</ul>
+<ul>Search</ul>
+<ul>(Ped list - 1000+ Peds)</ul>
 <li>Wardrobe </li>
-<ol>Saved</ol>
-<ol>Current: (outfit)</ol>
-<ol>Create</ol>
-<ol>Component (Head, Shirt, Pants, etc)</ol>
-<ol>Drawable</ol>
-<ol>Drawable Variation</ol>
-<ol>Palette</ol>
-<ol>Clear</ol>
+<ul>Saved</ul>
+<ul>Current: (outfit)</ul>
+<ul>Create</ul>
+<ul>Component (Head, Shirt, Pants, etc)</ul>
+<ul>Drawable</ul>
+<ul>Drawable Variation</ul>
+<ul>Palette</ul>
+<ul>Clear</ul>
 <li>Props</li>
-<ol>Prop (Hat, Chain, Gloves, etc)</ol>
-<ol>Drawable</ol>
-<ol>Drawable Variation</ol>
-<ol>Clear</ol>
+<ul>Prop (Hat, Chain, Gloves, etc)</ul>
+<ul>Drawable</ul>
+<ul>Drawable Variation</ul>
+<ul>Clear</ul>
 <li>Hair</li>
-<ol>Color</ol>
-<ol>Miscellaneous</ol>
-<ol>Random Components</ol>
-<ol>Random Props</ol>
+<ul>Color</ul>
+<ul>Miscellaneous</ul>
+<ul>Random Components</ul>
+<ul>Random Props</ul>
 <li>Globals</li>
-<ol>Get BST</ol>
-<ol>Off Radar</ol>
-<ol>Cops Turn Blind Eye</ol>
-<ol>No Orbital Cannon Cooldown</ol>
-<ol>Request Service (RC, MOC, Terrorbyte etc)</ol>
+<ul>Get BST</ul>
+<ul>Off Radar</ul>
+<ul>Cops Turn Blind Eye</ul>
+<ul>No Orbital Cannon Cooldown</ul>
+<ul>Request Service (RC, MOC, Terrorbyte etc)</ul>
 <li>Animations</li>
-<ol>Controllable</ol>
-<ol>Stop Animation</ol>
-<ol>Animations (Sex, Pole Dance, Workouts etc)</ol>
-<ol>Scenarios</ol>
+<ul>Controllable</ul>
+<ul>Stop Animation</ul>
+<ul>Animations (Sex, Pole Dance, Workouts etc)</ul>
+<ul>Scenarios</ul>
 <li>Vision</li>
-<ol>Reset</ol>
-<ol>Visions</ol>
-<ol>Timecycle</ol>
-<ol>Stoned</ol>
-<ol>Orange</ol>
-<ol>Cocaine</ol>
-<ol>Huffin Gas</ol>
-<ol>Wobbly</ol>
-<ol>Drunk</ol>
-<ol>Heaven</ol>
-<ol>3D</ol>
-<ol>Killstreak</ol>
-<ol>Hallucinations</ol>
-<ol>Low Quality</ol>
-<ol>Blurry</ol>
-<ol>"Fucked Up" Screen</ol>
-<ol>God mode</ol>
-<ol>Health</ol>
-<ol>Max Health</ol>
-<ol>No Ragdoll</ol>
-<ol>Jump (1-3)</ol>
-<ol>Sprint Speed (1-3)</ol>
-<ol>Invisibility (1-4)</ol>
-<ol>Never Wanted</ol>
-<ol>Wanted Level</ol>
-<ol>Explosive Melee</ol>
-<ol>Tiny Player</ol>
-<ol>Super Man</ol>
-<ol>Opacity</ol>
-<ol>Suicide</ol>
-<ol>Clean</ol>
+<ul>Reset</ul>
+<ul>Visions</ul>
+<ul>Timecycle</ul>
+<ul>Stoned</ul>
+<ul>Orange</ul>
+<ul>Cocaine</ul>
+<ul>Huffin Gas</ul>
+<ul>Wobbly</ul>
+<ul>Drunk</ul>
+<ul>Heaven</ul>
+<ul>3D</ul>
+<ul>Killstreak</ul>
+<ul>Hallucinations</ul>
+<ul>Low Quality</ul>
+<ul>Blurry</ul>
+<ul>"Fucked Up" Screen</ul>
+<ul>God mode</ul>
+<ul>Health</ul>
+<ul>Max Health</ul>
+<ul>No Ragdoll</ul>
+<ul>Jump (1-3)</ul>
+<ul>Sprint Speed (1-3)</ul>
+<ul>Invisibility (1-4)</ul>
+<ul>Never Wanted</ul>
+<ul>Wanted Level</ul>
+<ul>Explosive Melee</ul>
+<ul>Tiny Player</ul>
+<ul>Super Man</ul>
+<ul>Opacity</ul>
+<ul>Suicide</ul>
+<ul>Clean</ul>
 <li>Weapons</li>
-<ol>Get All Weapons</ol>
-<ol>Clear All Weapons</ol>
+<ul>Get All Weapons</ul>
+<ul>Clear All Weapons</ul>
 <li>Upgrades</li>
-<ol>Max Upgrade All Weapons</ol>
-<ol>Max Upgrade Current Weapon</ol>
+<ul>Max Upgrade All Weapons</ul>
+<ul>Max Upgrade Current Weapon</ul>
 <li>Auto</li>
-<ol>Auto Get All Weapons</ol>
-<ol>Auto Get All Weapon Upgrades</ol>
+<ul>Auto Get All Weapons</ul>
+<ul>Auto Get All Weapon Upgrades</ul>
 <li>Color</li>
-<ol>Rainbow Gun</ol>
+<ul>Rainbow Gun</ul>
 <li>Visuals</li>
-<ol>Weapon Invisibility</ol>
-<ol>Crosshair</ol>
-<ol>Crosshair -> ADS Only</ol>
-<ol>Entity Information Gun</ol>
+<ul>Weapon Invisibility</ul>
+<ul>Crosshair</ul>
+<ul>Crosshair -> ADS Only</ul>
+<ul>Entity Information Gun</ul>
 <li>Ammo Modifications</li>
-<ol>Impact (1-6)</ol>
-<ol>Custom (1-5)</ol>
-<ol>Particle (1-2)</ol>
+<ul>Impact (1-6)</ul>
+<ul>Custom (1-5)</ul>
+<ul>Particle (1-2)</ul>
 <li>Options</li>
-<ol>Delete Gun</ol>
-<ol>Nerf Bullets</ol>
+<ul>Delete Gun</ul>
+<ul>Nerf Bullets</ul>
 <li>Shoot Entities</li>
-<ol>Toggle</ol>
-<ol>Current: (Entity)</ol>
-<ol>Custom Entity</ol>
+<ul>Toggle</ul>
+<ul>Current: (Entity)</ul>
+<ul>Custom Entity</ul>
 <li>General</li>
-<ol>No Reload</ol>
-<ol>Infinite Ammo</ol>
-<ol>Rapid Fire</ol>
-<ol>Bypass Sticky Bomb Limit</ol>
-<ol>One Shot One Kill</ol>
+<ul>No Reload</ul>
+<ul>Infinite Ammo</ul>
+<ul>Rapid Fire</ul>
+<ul>Bypass Sticky Bomb Limit</ul>
+<ul>One Shot One Kill</ul>
 <li>Triggerbot (1-4)</li>
 <li>Entity Control</li>
-<ol>Gravity Gun</ol>
-<ol>Entity Distance</ol>
+<ul>Gravity Gun</ul>
+<ul>Entity Distance</ul>
 <li>Vehicle</li>
 <li>Los Santos Customs</li>
-<ol>Repair  </ol>
-<ol>Clean</ol>
-<ol>Max Upgrade</ol>
-<ol>Max Downgrade</ol>
-<ol>Change License Plate Text</ol>
-<ol>Color</ol>
-<ol>Primary Color: Red</ol>
-<ol>Primary Color: Green</ol>
-<ol>Primary Color: Blue</ol>
-<ol>Set Primary Color</ol>
-<ol>Secondary Color: Red</ol>
-<ol>Secondary Color: Green</ol>
-<ol>Secondary Color: Blue</ol>
-<ol>Set Secondary Color</ol>
-<ol>Neon</ol>
-<ol>Enable Neons</ol>
-<ol>Disable Neons</ol>
-<ol>Neon Color: Red</ol>
-<ol>Neon Color: Green</ol>
-<ol>Neon Color: Blue</ol>
-<ol>Set Neon Color</ol>
-<ol>Neon Presets</ol>
-<ol>Red</ol>
-<ol>Green</ol>
-<ol>Blue</ol>
-<ol>Hot Pink</ol>
-<ol>Yellow</ol>
-<ol>Orange</ol>
-<ol>Aqua</ol>
-<ol>White</ol>
-<ol>Magenta</ol>
-<ol>Purple</ol>
-<ol>Dark Green</ol>
-<ol>Rose Red</ol>
-<ol>Multipliers</ol>
-<ol>Engine Multiplier</ol>
-<ol>Engine Torque Multiplier</ol>
-<ol>Set</ol>
-<ol>Doors</ol>
-<ol>Open (1-8)</ol>
-<ol>Close (1-8)</ol>
+<ul>Repair  </ul>
+<ul>Clean</ul>
+<ul>Max Upgrade</ul>
+<ul>Max Downgrade</ul>
+<ul>Change License Plate Text</ul>
+<ul>Color</ul>
+<ul>Primary Color: Red</ul>
+<ul>Primary Color: Green</ul>
+<ul>Primary Color: Blue</ul>
+<ul>Set Primary Color</ul>
+<ul>Secondary Color: Red</ul>
+<ul>Secondary Color: Green</ul>
+<ul>Secondary Color: Blue</ul>
+<ul>Set Secondary Color</ul>
+<ul>Neon</ul>
+<ul>Enable Neons</ul>
+<ul>Disable Neons</ul>
+<ul>Neon Color: Red</ul>
+<ul>Neon Color: Green</ul>
+<ul>Neon Color: Blue</ul>
+<ul>Set Neon Color</ul>
+<ul>Neon Presets</ul>
+<ul>Red</ul>
+<ul>Green</ul>
+<ul>Blue</ul>
+<ul>Hot Pink</ul>
+<ul>Yellow</ul>
+<ul>Orange</ul>
+<ul>Aqua</ul>
+<ul>White</ul>
+<ul>Magenta</ul>
+<ul>Purple</ul>
+<ul>Dark Green</ul>
+<ul>Rose Red</ul>
+<ul>Multipliers</ul>
+<ul>Engine Multiplier</ul>
+<ul>Engine Torque Multiplier</ul>
+<ul>Set</ul>
+<ul>Doors</ul>
+<ul>Open (1-8)</ul>
+<ul>Close (1-8)</ul>
 <li>Weapons</li>
-<ol>Toggle</ol>
-<ol>Show Lines</ol>
-<ol>Current: (Weapon)</ol>
-<ol>Tank Rounds</ol>
-<ol>Vehicle Rockets</ol>
-<ol>Fireworks</ol>
+<ul>Toggle</ul>
+<ul>Show Lines</ul>
+<ul>Current: (Weapon)</ul>
+<ul>Tank Rounds</ul>
+<ul>Vehicle Rockets</ul>
+<ul>Fireworks</ul>
 <li>Delete Current</li>
 <li>Flip Up</li>
 <li>Set Max Speed</li>
@@ -196,59 +196,59 @@ layout: default
 <li>Rainbow Colors</li>
 <li>Drive On Water</li>
 <li>Super Brakes</li>
-<ol>Spawn</ol>
+<ul>Spawn</ul>
 <li>Ped (1000+)</li>
-<ol>Vehicle</ol>
-<ol>Settings</ol>
-<ol>Spawn Inside</ol>
-<ol>Spawn Invincible</ol>
-<ol>Spawn Max Upgraded</ol>
-<ol>Delete Current</ol>
-<ol>Spawn Air Vehicles In The Air</ol>
+<ul>Vehicle</ul>
+<ul>Settings</ul>
+<ul>Spawn Inside</ul>
+<ul>Spawn Invincible</ul>
+<ul>Spawn Max Upgraded</ul>
+<ul>Delete Current</ul>
+<ul>Spawn Air Vehicles In The Air</ul>
 <li>License Plate Text (1-4)</li>
-<ol>Previously Spawned</ol>
-<ol>Custom Input</ol>
-<ol>Category (1-24)</ol>
-<ol>List (750+ Cars)</ol>
+<ul>Previously Spawned</ul>
+<ul>Custom Input</ul>
+<ul>Category (1-24)</ul>
+<ul>List (750+ Cars)</ul>
 <li>Object (18000+)</li>
-<ol>Teleport</ol>
+<ul>Teleport</ul>
 <li>To Waypoint</li>
-<ol>Automatic Waypoint Teleport</ol>
+<ul>Automatic Waypoint Teleport</ul>
 <li>Into Personal Vehicle</li>
 <li>Into Last Used Vehicle</li>
 <li>Objective</li>
 <li>Coordinates</li>
 <li>Forward</li>
-<ol>Custom Locations</ol>
+<ul>Custom Locations</ul>
 <li>Save Current Location</li>
 <li>View Locations (saved)</li>
-<ol>Presets</ol>
-<ol>Teleport Transition</ol>
+<ul>Presets</ul>
+<ul>Teleport Transition</ul>
 <li>Teleport to Cayo Perico Island</li>
-<ol>Landmarks</ol>
-<ol>40 Locations</ol>
-<ol>IPL's</ol>
-<ol>7 Locations</ol>
-<ol>Safehouses</ol>
-<ol>12 Locations</ol>
-<ol>Underwater</ol>
-<ol>8 Locations</ol>
-<ol>High Altitude</ol>
-<ol>13 Locations</ol>
-<ol>World</ol>
-<ol>Time</ol>
+<ul>Landmarks</ul>
+<ul>40 Locations</ul>
+<ul>IPL's</ul>
+<ul>7 Locations</ul>
+<ul>Safehouses</ul>
+<ul>12 Locations</ul>
+<ul>Underwater</ul>
+<ul>8 Locations</ul>
+<ul>High Altitude</ul>
+<ul>13 Locations</ul>
+<ul>World</ul>
+<ul>Time</ul>
 <li>Hour</li>
 <li>Minute</li>
 <li>Seconds</li>
-<ol>Current Time</ol>
+<ul>Current Time</ul>
 <li>Game Time: xx:xx:xx</li>
 <li>System Time: xx:xx:xx</li>
-<ol>Miscellaneous</ol>
-<ol>Slow Motion</ol>
-<ol>Pause Time</ol>
-<ol>Weather</ol>
+<ul>Miscellaneous</ul>
+<ul>Slow Motion</ul>
+<ul>Pause Time</ul>
+<ul>Weather</ul>
 <li>Clouds (1-21)</li>
-<ol>Weather Types</ol>
+<ul>Weather Types</ul>
 <li>Reset</li>
 <li>Extra Sunny</li>
 <li>Sunny</li>
@@ -260,41 +260,41 @@ layout: default
 <li>Snow</li>
 <li>Snowlight</li>
 <li>Blizzard</li>
-<ol>Nearby Vehicles</ol>
+<ul>Nearby Vehicles</ul>
 <li>Explode Vehicles</li>
 <li>Delete Vehicles</li>
 <li>Boost Vehicles</li>
-<ol>Nearby Peds</ol>
+<ul>Nearby Peds</ul>
 <li>Explode Peds</li>
 <li>Kill Peds</li>
-<ol>Snow</ol>
-<ol>No Gravity
-<ol>Blackout</ol>
+<ul>Snow</ul>
+<ul>No Gravity
+<ul>Blackout</ul>
 <li>Clear Area</li>
-<ol>Session</ol>
-<ol>Players</ol>
-<ol>(player)</ol>
-<ol>Spectate</ol>
-<ol>Host Kick</ol>
-<ol>Teleport</ol>
+<ul>Session</ul>
+<ul>Players</ul>
+<ul>(player)</ul>
+<ul>Spectate</ul>
+<ul>Host Kick</ul>
+<ul>Teleport</ul>
 <li>Parachute To</li>
 <li>Teleport To</li>
 <li>Teleport Into Vehicle</li>
-<ol>Friendly</ol>
+<ul>Friendly</ul>
 <li>Give All Weapons</li>
 <li>Copy Outfit</li>
 <li>Set Waypoint</li>
 <li>Spawn Bodyguard</li>
-<ol>Griefing</ol>
-<ol>Script Events</ol>
+<ul>Griefing</ul>
+<ul>Script Events</ul>
 <li>Single Player Kick</li>
 <li>Force Into Mission</li>
 <li>CEO Kick</li>
-<ol>Teleport</ol>
-<ol>Property</ol>
+<ul>Teleport</ul>
+<ul>Property</ul>
 <li>125 Properties</li>
 <li>Cayo Perico Island</li>
-<ol>Attachments</ol>
+<ul>Attachments</ul>
 <li>Plate</li>
 <li>EMP</li>
 <li>Beach Fire</li>
@@ -307,9 +307,9 @@ layout: default
 <li>Windmill</li>
 <li>Radar</li>
 <li>Detach All</li>
-<ol>Explode</ol>
-<ol>Freeze</ol>
-<ol>Shake Camera</ol>
+<ul>Explode</ul>
+<ul>Freeze</ul>
+<ul>Shake Camera</ul>
 <li>Set Off Vehicle Alarm</li>
 <li>Burst Vehicle Tires</li>
 <li>Airstrike</li>
@@ -321,66 +321,66 @@ layout: default
 <li>Kick out of vehicle</li>
 <li>Spawn Enemy</li>
 <li>View Social Club Profile</li>
-<ol>All Players</ol>
-<ol>Exclusions</ol>
-<ol>Exclude Self</ol>
-<ol>Exclude Friends</ol>
-<ol>Exclude Host</ol>
-<ol>Friendly</ol>
+<ul>All Players</ul>
+<ul>Exclusions</ul>
+<ul>Exclude Self</ul>
+<ul>Exclude Friends</ul>
+<ul>Exclude Host</ul>
+<ul>Friendly</ul>
 <li>Give All Weapons</li>
-<ol>Griefing</ol>
+<ul>Griefing</ul>
 <li>Teleport to Eclipse Tower</li>
-<ol>Freeze</ol>
+<ul>Freeze</ul>
 <li>Kick Out Of Vehicle</li>
 <li>Airstrike</li>
 <li>Trap</li>
 <li>Attack Beach Fire</li>
-<ol>Miscellaneous</ol>
+<ul>Miscellaneous</ul>
 <li>Host Kick</li>
-<ol>Session Starter</ol>
-<ol>Lock To Friends</ol>
-<ol>Join/Change</ol>
+<ul>Session Starter</ul>
+<ul>Lock To Friends</ul>
+<ul>Join/Change</ul>
 <li>Change Session (1-7)</li>
 <li>Join Session Containing Friends</li>
 <li>Join Session Containing Crew Members</li>
-<ol>SCTV</ol>
+<ul>SCTV</ul>
 <li>Start SCTV Public Session</li>
-<ol>Protection</ol>
+<ul>Protection</ul>
 <li>Toggle Anti-Crash Camera</li>
-<ol>Protection</ol>
-<ol>Block Reports</ol>
-<ol>Script Events</ol>
-<ol>Block All</ol>
-<ol>Script Events</ol>
-<ol>Kicks</ol>
-<ol>CEO Ban</ol>
-<ol>CEO Kick</ol>
-<ol>CEO Money</ol>
-<ol>Property Teleport</ol>
-<ol>Cayo Perico Teleport</ol>
-<ol>Force Into Mission</ol>
-<ol>Bounty</ol>
-<ol>Clear Wanted Level</ol>
-<ol>Game Banner</ol>
-<ol>Crash</ol>
-<ol>Personal Vehicle Destroyed</ol>
-<ol>Remote Off Radar</ol>
-<ol>Send To Cutscene</ol>
-<ol>Send To Location</ol>
-<ol>Sound Spam</ol>
-<ol>Spectate</ol>
-<ol>SMS</ol>
-<ol>TSE Start</ol>
-<ol>Notification</ol>
-<ol>Interior Control</ol>
-<ol>Interior Kick</ol>
-<ol>Transaction Error</ol>
-<ol>CEO Raid</ol>
-<ol>Start Activity</ol>
-<ol>Give Collectable</ol>
-<ol>Warehouse Teleport</ol>
-<ol>Recovery</ol>
-<ol>Stats</ol>
+<ul>Protection</ul>
+<ul>Block Reports</ul>
+<ul>Script Events</ul>
+<ul>Block All</ul>
+<ul>Script Events</ul>
+<ul>Kicks</ul>
+<ul>CEO Ban</ul>
+<ul>CEO Kick</ul>
+<ul>CEO Money</ul>
+<ul>Property Teleport</ul>
+<ul>Cayo Perico Teleport</ul>
+<ul>Force Into Mission</ul>
+<ul>Bounty</ul>
+<ul>Clear Wanted Level</ul>
+<ul>Game Banner</ul>
+<ul>Crash</ul>
+<ul>Personal Vehicle Destroyed</ul>
+<ul>Remote Off Radar</ul>
+<ul>Send To Cutscene</ul>
+<ul>Send To Location</ul>
+<ul>Sound Spam</ul>
+<ul>Spectate</ul>
+<ul>SMS</ul>
+<ul>TSE Start</ul>
+<ul>Notification</ul>
+<ul>Interior Control</ul>
+<ul>Interior Kick</ul>
+<ul>Transaction Error</ul>
+<ul>CEO Raid</ul>
+<ul>Start Activity</ul>
+<ul>Give Collectable</ul>
+<ul>Warehouse Teleport</ul>
+<ul>Recovery</ul>
+<ul>Stats</ul>
 <li>Max All Skills</li>
 <li>Stamina</li>
 <li>Strength</li>
@@ -389,9 +389,9 @@ layout: default
 <li>Flying</li>
 <li>Shooting</li>
 <li>Stealth</li>
-<ol>Money</ol>
-<ol>Loop</ol>
-<ol>Unlocks</ol>
+<ul>Money</ul>
+<ul>Loop</ul>
+<ul>Unlocks</ul>
 <li>Unlock All</li>
 <li>Unlock Tattoo's</li>
 <li>Unlock Heist Vehicles</li>
@@ -401,49 +401,49 @@ layout: default
 <li>Unlock Increased Throwables Amount</li>
 <li>Skip Casino Mission and unlock Armored Paragon</li>
 <li>Unlock All Bunker Missions</li>
-<ol>Rank</ol>
+<ul>Rank</ul>
 <li>Player</li>
 <li>Crew</li>
-<ol>K/D</ol>
+<ul>K/D</ul>
 <li>Current Kills: (kills)</li>
 <li>Current Deaths: (deaths)</li>
 <li>Kills</li>
 <li>Deaths</li>
 <li>Change</li>
-<ol>Miscellaneous</ol>
+<ul>Miscellaneous</ul>
 <li>Set Max Nightclub Popularity</li>
 <li>Redesign Character Prompt</li>
 <li>Clear Badsport</li>
 <li>Reset Mental State</li>
-<ol>ATM</ol>
+<ul>ATM</ul>
 <li>Move Wallet To Bank</li>
 <li>Move Bank To Wallet</li>
-<ol>Miscellaneous</ol>
-<ol>Report Statistics</ol>
-<ol>16 Player Report Statistic Values</ol>
-<ol>Disables</ol>
-<ol>Idle Kick</ol>
-<ol>Transaction Error Warnings</ol>
-<ol>Cutscenes</ol>
-<ol>Mobile Phone</ol>
-<ol>GXT Editor</ol>
+<ul>Miscellaneous</ul>
+<ul>Report Statistics</ul>
+<ul>16 Player Report Statistic Values</ul>
+<ul>Disables</ul>
+<ul>Idle Kick</ul>
+<ul>Transaction Error Warnings</ul>
+<ul>Cutscenes</ul>
+<ul>Mobile Phone</ul>
+<ul>GXT Editor</ul>
 <li>Add</li>
-<ol>Strings</ol>
-<ol>(added strings)</ol>
-<ol>In-Game Television</ol>
-<ol>Draw TV</ol>
-<ol>Playlist</ol>
+<ul>Strings</ul>
+<ul>(added strings)</ul>
+<ul>In-Game Television</ul>
+<ul>Draw TV</ul>
+<ul>Playlist</ul>
 <li>(21 tv channels)</li>
-<ol>Radio</ol>
+<ul>Radio</ul>
 <li>Skip Track</li>
-<ol>Freeze Station</ol>
-<ol>Mobile Radio</ol>
-<ol>Extra-sensory Perception</ol>
-<ol>Basic Player ESP</ol>
-<ol>Head-up Display</ol>
-<ol>Disable HUD</ol>
-<ol>Hide Minimap</ol>
-<ol>Color</ol>
+<ul>Freeze Station</ul>
+<ul>Mobile Radio</ul>
+<ul>Extra-sensory Perception</ul>
+<ul>Basic Player ESP</ul>
+<ul>Head-up Display</ul>
+<ul>Disable HUD</ul>
+<ul>Hide Minimap</ul>
+<ul>Color</ul>
 <li>Component</li>
 <li>Red</li>
 <li>Green</li>
@@ -451,9 +451,9 @@ layout: default
 <li>Alpha</li>
 <li>Set</li>
 <li>Reset Color</li>
-<ol>IPL Loader</ol>
+<ul>IPL Loader</ul>
 <li>GTA:O Map Data (1-2)</li>
-<ol>Item Placement Files</ol>
+<ul>Item Placement Files</ul>
 <li>North Yankton</li>
 <li>Dignity Heist Yacht</li>
 <li>Destroyed Hospital</li>
@@ -462,56 +462,56 @@ layout: default
 <li>Cargoship</li>
 <li>Aircraft Carrier</li>
 <li>Fake Wanted Level</li>
-<ol>No-Clip</ol>
-<ol>Jump Around Mode</ol>
-<ol>Show Joining Players Notification</ol>
-<ol>Show FPS</ol>
+<ul>No-Clip</ul>
+<ul>Jump Around Mode</ul>
+<ul>Show Joining Players Notification</ul>
+<ul>Show FPS</ul>
 <li>Drive To Waypoint</li>
 <li>Get Empty Session</li>
 <li>Exit to Single Player</li>
-<ol>Settings</ol>
-<ol>Theme</ol>
+<ul>Settings</ul>
+<ul>Theme</ul>
 <li>Saved</li>
 <li>Current</li>
 <li>Create New</li>
-<ol>Header</ol>
-<ol>Texture</ol>
-<ol>Background</ol>
-<ol>Color</ol>
-<ol>RGB Disco</ol>
+<ul>Header</ul>
+<ul>Texture</ul>
+<ul>Background</ul>
+<ul>Color</ul>
+<ul>RGB Disco</ul>
 <li>Primary</li>
 <li>Text</li>
-<ol>Font</ol>
+<ul>Font</ul>
 <li>Type (1-6)</li>
-<ol>Menu</ol>
-<ol>Disable Open/Close Fade</ol>
+<ul>Menu</ul>
+<ul>Disable Open/Close Fade</ul>
 <li>X-Axis</li>
 <li>Y-Axis</li>
 <li>Width</li>
 <li>Selectable Height</li>
 <li>Reset Position & Width</li>
-<ol>Selectable Information Box</ol>
+<ul>Selectable Information Box</ul>
 <li>X-Axis</li>
 <li>Y-Axis</li>
 <li>Reset Position</li>
-<ol>Hide Elements</ol>
-<ol>Selectable Information Box</ol>
-<ol>Player Information Box</ol>
-<ol>Vehicle Preview</ol>
+<ul>Hide Elements</ul>
+<ul>Selectable Information Box</ul>
+<ul>Player Information Box</ul>
+<ul>Vehicle Preview</ul>
 <li>Max Visible Menu Selectables</li>
-<ol>Restore To Previous Submenu</ol>
-<ol>Keys</ol>
+<ul>Restore To Previous Submenu</ul>
+<ul>Keys</ul>
 <li>Menu GUI: (key)</li>
 <li>Cursor Navigation: (key)</li>
 <li>Save Selectable: (key)</li>
 <li>Key Press Delay</li>
 <li>Menu Arrow Animation Delay</li>
-<ol>Gameplay While Cursor Is Active</ol>
-<ol>Safe Mode</ol>
-<ol>Disable Cursor When Menu Gets Closed</ol>
-<ol>Do not overwrite "Textures.ytd" at init</ol>
-<ol>About</ol>
-<ol>Author: TnyavnTo</ol>
+<ul>Gameplay While Cursor Is Active</ul>
+<ul>Safe Mode</ul>
+<ul>Disable Cursor When Menu Gets Closed</ul>
+<ul>Do not overwrite "Textures.ytd" at init</ul>
+<ul>About</ul>
+<ul>Author: TnyavnTo</ul>
 <li>Visit GitHub Repository</li>
 <li>Unload Cheat</li>
 
