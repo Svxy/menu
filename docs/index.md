@@ -31,7 +31,7 @@ layout: default
 
 <br><a id='top_of_list'>
 
-<button><a href='bottom_of_list'>Jump To Bottom</a></button>
+<p align=center><button><a href='#bottom_of_list'>Jump To Bottom</a></button></p>
 
 <br>
   
@@ -521,7 +521,7 @@ layout: default
 
 <br><a id='bottom_of_list'>
 
-<button><a href='top_of_list'>Jump To Top</a></button>
+<button><a href='#top_of_list'>Jump To Top</a></button>
 
 <br>
     
