@@ -1,16 +1,19 @@
-<h4 align=center><sup>Now has Nightclub Safe loop - $250k/4sec</sup></h4>
+<h4 align=center>Now has Nightclub Safe loop - $250k/4sec</h4>
 
-<p align=center><sup>NOTE: Recovery Submenu locked until Safe Mode is turned off in settings.</sup></p>
+<p align=center>NOTE: Recovery Submenu locked until Safe Mode is turned off in settings.</p>
 
 <p align=center>Download <a href='https://github.com/svxy/tnyavntos-module-injector'>my injector</a> and the <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu/releases/latest'>latest menu release</a>.
+
 
 <br>
 
 <p align=center><img alt="version" src="https://img.shields.io/github/v/release/svxy/TnyavnTos-GTA5-Mod-Menu?style=for-the-badge">  <img alt="last commit" src="https://img.shields.io/github/last-commit/svxy/TnyavnTos-GTA5-Mod-Menu?style=for-the-badge">  <!--<img alt="Repo stars" src="https://img.shields.io/github/stars/svxy/TnyavnTos-GTA5-Mod-Menu?style=for-the-badge"></p>-->
 
+
 <br>
 
 <p align=center><img src='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu/blob/main/resources/preview_image.png?raw=true' height=420px></p>
+
 
 
 <br>
@@ -19,1258 +22,1322 @@
 
 ___
 
+
 <br>
 
 <h2 align=center>Full Features List:</h2>
 
+
 <br>
 <!-- Self  Start -->
-<details>
+<select>
   
   
-<summary>Self</summary>
+<option>Self</option>
+
+
 <br>
 
-<sup><details>
-  <summary>Model</summary>
-  <br>
+<select>
+  <option>Model</option>
   
-  - <sup>Custom Input</sup>
+<br>
+  
+  - Custom Input
   
   Ped List
   
-  - <sup>Search</sup>
+  - Search
   
-  <sup>(Ped list - 1000+ Peds)</sup>
-  </details>
+  (Ped list - 1000+ Peds)
+  </select>
   
   
-<sup><details>
-  <summary>Wardrobe</summary>
-  <br>
+<select>
+  <option>Wardrobe</option>
+  
+<br>
   
    Components
   
-  - <sup>Saved</sup>
+  - Saved
   
-  - <sup>Current: (outfit)</sup>
+  - Current: (outfit)
   
-  - <sup>Create</sup>
+  - Create
   
-  - <sup>Component (Head, Shirt, Pants, etc)</sup>
+  - Component (Head, Shirt, Pants, etc)
   
-  - <sup>Drawable</sup>
+  - Drawable
   
-  - <sup>Drawable Variation</sup>
+  - Drawable Variation
   
-  - <sup>Palette</sup>
+  - Palette
   
-  - <sup>Clear</sup>
+  - Clear
   
    Props
   
-  - <sup>Prop (Hat, Chain, Gloves, etc)</sup>
+  - Prop (Hat, Chain, Gloves, etc)
   
-  - <sup>Drawable</sup>
+  - Drawable
   
-  - <sup>Drawable Variation</sup>
+  - Drawable Variation
   
-  - <sup>Clear</sup>
+  - Clear
   
    Hair
   
-  - <sup>Color</sup>
+  - Color
   
    Miscellaneous
   
-  - <sup>Random Components</sup>
+  - Random Components
   
-  - <sup>Random Props</sup>
+  - Random Props
   
   
-  </details>
+  </select>
 
-<sup><details>
-  <summary>Globals</summary>
-  <br>
+<select>
+  <option>Globals</option>
   
-  - <sup>Get BST</sup>
+<br>
   
-  - [ ] <sup>Off Radar</sup>
+  - Get BST
   
-  - [ ] <sup>Cops Turn Blind Eye</sup>
+  <input type="checkbox"/> Off Radar
   
-  - [ ] <sup>No Orbital Cannon Cooldown</sup>
+  <input type="checkbox"/> Cops Turn Blind Eye
   
-  - <sup>Request Service (RC, MOC, Terrorbyte etc)</sup>
-  </details>
+  <input type="checkbox"/> No Orbital Cannon Cooldown
   
-<sup><details>
-  <summary>Animations</summary>
-  <br>
+  - Request Service (RC, MOC, Terrorbyte etc)
+  </select>
   
-  - [ ] <sup>Controllable</sup>
+<select>
+  <option>Animations</option>
   
-  - <sup>Stop Animation</sup>
+<br>
   
-  - <sup>Animations (Sex, Pole Dance, Workouts etc)</sup>
+  <input type="checkbox"/> Controllable
   
-  - <sup>Scenarios</sup>
-  </details>
+  - Stop Animation
   
-<sup><details>
-  <summary>Vision</summary>
-  <br>
+  - Animations (Sex, Pole Dance, Workouts etc)
   
-  - <sup>Reset</sup>
+  - Scenarios
+  </select>
+  
+<select>
+  <option>Vision</option>
+  
+<br>
+  
+  - Reset
   
   Visions
   
-  - <sup>Timecycle</sup>
+  - Timecycle
   
-  - <sup>Stoned</sup>
+  - Stoned
   
-  - <sup>Orange</sup>
+  - Orange
   
-  - <sup>Cocaine</sup>
+  - Cocaine
   
-  - <sup>Huffin Gas</sup>
+  - Huffin Gas
   
-  - <sup>Wobbly</sup>
+  - Wobbly
   
-  - <sup>Drunk</sup>
+  - Drunk
   
-  - <sup>Heaven</sup>
+  - Heaven
   
-  - <sup>3D</sup>
+  - 3D
   
-  - <sup>Killstreak</sup>
+  - Killstreak
   
-  - <sup>Hallucinations</sup>
+  - Hallucinations
   
-  - <sup>Low Quality</sup>
+  - Low Quality
   
-  - <sup>Blurry</sup>
+  - Blurry
   
-  - <sup>"Fucked Up" Screen</sup>
-  </details>
+  - "Fucked Up" Screen
+  </select>
   
-  - [ ] <sup>God mode</sup>
+  <input type="checkbox"/> God mode
   
-  - <sup>Health</sup>
+  - Health
   
-  - <sup>Max Health</sup>
+  - Max Health
   
-  - [ ] <sup>No Ragdoll</sup>
+  <input type="checkbox"/> No Ragdoll
   
-  - <sup>Jump (1-3)</sup>
+  - Jump (1-3)
   
-  - <sup>Sprint Speed (1-3)</sup>
+  - Sprint Speed (1-3)
   
-  - <sup>Invisibility (1-4)</sup>
+  - Invisibility (1-4)
   
-  - [ ] <sup>Never Wanted</sup>
+  <input type="checkbox"/> Never Wanted
   
-  - <sup>Wanted Level</sup>
+  - Wanted Level
   
-  - [ ] <sup>Explosive Melee</sup>
+  <input type="checkbox"/> Explosive Melee
   
-  - [ ] <sup>Tiny Player</sup>
+  <input type="checkbox"/> Tiny Player
   
-  - [ ] <sup>Super Man</sup>
+  <input type="checkbox"/> Super Man
   
-  - <sup>Opacity</sup>
+  - Opacity
   
-  - <sup>Suicide</sup>
+  - Suicide
   
-  - <sup>Clean</sup>
-</details>
+  - Clean
+</select>
 
 <!-- Self End -->
   
 <!-- Weapons  Start -->
-<details>
+<select>
   
   
-<summary>Weapons</summary>
+<option>Weapons</option>
+
 <br>
 
- <details>
-   <summary>Weapons</summary>
-   <br>
+ <select>
+   <option>Weapons</option>
+   
+<br>
     
-   - <sup>Get All Weapons</sup>
+   - Get All Weapons
     
-   - <sup>Clear All Weapons</sup>
+   - Clear All Weapons
     
    Upgrades
     
-   - <sup>Max Upgrade All Weapons</sup>
+   - Max Upgrade All Weapons
     
-   - <sup>Max Upgrade Current Weapon</sup>
+   - Max Upgrade Current Weapon
     
    Auto
     
-   - [ ] <sup>Auto Get All Weapons</sup>
+   <input type="checkbox"/> Auto Get All Weapons
     
-   - [ ] <sup>Auto Get All Weapon Upgrades</sup>
+   <input type="checkbox"/> Auto Get All Weapon Upgrades
     
    Color
     
-   - [ ] <sup>Rainbow Gun</sup>
-  </details>
+   <input type="checkbox"/> Rainbow Gun
+  </select>
  
-  <sup><details>
-   <summary>Visuals</summary>
-   <br>
+  <select>
+   <option>Visuals</option>
+   
+<br>
     
-   - [ ] <sup>Weapon Invisibility</sup>
+   <input type="checkbox"/> Weapon Invisibility
     
-   - [ ] <sup>Crosshair</sup>
+   <input type="checkbox"/> Crosshair
     
-   - [ ] <sup>Crosshair -> ADS Only</sup>
+   <input type="checkbox"/> Crosshair -> ADS Only
     
-   - [ ] <sup>Entity Information Gun</sup>
-  </details>
+   <input type="checkbox"/> Entity Information Gun
+  </select>
   
-  <sup><details>
-   <summary>Ammo Modifications</summary>
-   <br>
+  <select>
+   <option>Ammo Modifications</option>
+   
+<br>
     
-   - <sup>Impact (1-6)</sup>
+   - Impact (1-6)
     
-   - <sup>Custom (1-5)</sup>
+   - Custom (1-5)
     
-   - <sup>Particle (1-2)</sup>
+   - Particle (1-2)
     
    Options
     
-   - [ ] <sup>Delete Gun</sup>
+   <input type="checkbox"/> Delete Gun
     
-   - [ ] <sup>Nerf Bullets</sup>
-  </details>
+   <input type="checkbox"/> Nerf Bullets
+  </select>
   
-  <sup><details>
-   <summary>Shoot Entities</summary>
-   <br>
+  <select>
+   <option>Shoot Entities</option>
+   
+<br>
     
-   - [ ] <sup>Toggle</sup>
+   <input type="checkbox"/> Toggle
     
-   - <sup>Current: (Entity)</sup>
+   - Current: (Entity)
     
-   - <sup>Custom Entity</sup>
-  </details>
+   - Custom Entity
+  </select>
   
   General
   
-  - [ ] <sup>No Reload</sup>
+  <input type="checkbox"/> No Reload
   
-  - [ ] <sup>Infinite Ammo</sup>
+  <input type="checkbox"/> Infinite Ammo
   
-  - [ ] <sup>Rapid Fire</sup>
+  <input type="checkbox"/> Rapid Fire
   
-  - [ ] <sup>Bypass Sticky Bomb Limit</sup>
+  <input type="checkbox"/> Bypass Sticky Bomb Limit
   
-  - [ ] <sup>One Shot One Kill</sup>
+  <input type="checkbox"/> One Shot One Kill
   
-  - <sup>Triggerbot (1-4)</sup>
+  - Triggerbot (1-4)
   
   Entity Control
   
-  - [ ] <sup>Gravity Gun</sup>
+  <input type="checkbox"/> Gravity Gun
   
-  - <sup>Entity Distance</sup>
-</details>
+  - Entity Distance
+</select>
 
 <!-- Weapons End -->
   
 <!-- Vehicle Start -->
-<details>
-  <summary>Vehicle</summary>
-  <br>
+<select>
+  <option>Vehicle</option>
   
-<details>
-  <summary>Los Santos Customs</summary>
-  <br>
+<br>
   
-  - <sup>Repair</sup>
+<select>
+  <option>Los Santos Customs</option>
   
-  - <sup>Clean</sup>
+<br>
   
-  - <sup>Max Upgrade</sup>
+  - Repair
   
-  - <sup>Max Downgrade</sup>
+  - Clean
   
-  - <sup>Change License Plate Text</sup>
+  - Max Upgrade
   
-<details>
-  <summary>Color</summary>
-  <br>
+  - Max Downgrade
+  
+  - Change License Plate Text
+  
+<select>
+  <option>Color</option>
+  
+<br>
  
-  - <sup>Primary Color: Red</sup>
+  - Primary Color: Red
   
-  - <sup>Primary Color: Green</sup>
+  - Primary Color: Green
   
-  - <sup>Primary Color: Blue</sup>
+  - Primary Color: Blue
   
-  - <sup>Set Primary Color</sup>
+  - Set Primary Color
   
-  - <sup>Secondary Color: Red</sup>
+  - Secondary Color: Red
   
-  - <sup>Secondary Color: Green</sup>
+  - Secondary Color: Green
   
-  - <sup>Secondary Color: Blue</sup>
+  - Secondary Color: Blue
   
-  - <sup>Set Secondary Color</sup>
+  - Set Secondary Color
   
-</details>
+</select>
   
-<details>
-  <summary>Neon</summary>
-  <br>
+<select>
+  <option>Neon</option>
+  
+<br>
  
-  - <sup>Enable Neons</sup>
+  - Enable Neons
   
-  - <sup>Disable Neons</sup>
+  - Disable Neons
   
-  - <sup>Neon Color: Red</sup>
+  - Neon Color: Red
   
-  - <sup>Neon Color: Green</sup>
+  - Neon Color: Green
   
-  - <sup>Neon Color: Blue</sup>
+  - Neon Color: Blue
   
-  - <sup>Set Neon Color</sup>
+  - Set Neon Color
   
   Neon Presets
   
-  - <sup>Red</sup>
+  - Red
   
-  - <sup>Green</sup>
+  - Green
   
-  - <sup>Blue</sup>
+  - Blue
   
-  - <sup>Hot Pink</sup>
+  - Hot Pink
   
-  - <sup>Yellow</sup>
+  - Yellow
   
-  - <sup>Orange</sup>
+  - Orange
   
-  - <sup>Aqua</sup>
+  - Aqua
   
-  - <sup>White</sup>
+  - White
   
-  - <sup>Magenta</sup>
+  - Magenta
   
-  - <sup>Purple</sup>
+  - Purple
   
-  - <sup>Dark Green</sup>
+  - Dark Green
   
-  - <sup>Rose Red</sup>
+  - Rose Red
   
-</details>
+</select>
   
-<details>
-  <summary>Multipliers</summary>
-  <br>
+<select>
+  <option>Multipliers</option>
   
-  - <sup>Engine Multiplier</sup>
+<br>
   
-  - <sup>Engine Torque Multiplier</sup>
+  - Engine Multiplier
   
-  - <sup>Set</sup>
+  - Engine Torque Multiplier
+  
+  - Set
  
-</details>  
+</select>  
   
   Doors
   
-  - <sup>Open (1-8)</sup>
+  - Open (1-8)
   
-  - <sup>Close (1-8)</sup>
+  - Close (1-8)
   
-</details>
+</select>
   
-<details>
-  <summary>Weapons</summary>
-  <br>
+<select>
+  <option>Weapons</option>
   
-  - [ ] <sup>Toggle</sup>
+<br>
   
-  - [ ] <sup>Show Lines</sup>
+  <input type="checkbox"/> Toggle
   
-  - <sup>Current: (Weapon)</sup>
+  <input type="checkbox"/> Show Lines
   
-  - <sup>Tank Rounds</sup>
+  - Current: (Weapon)
   
-  - <sup>Vehicle Rockets</sup>
+  - Tank Rounds
   
-  - <sup>Fireworks</sup>
+  - Vehicle Rockets
   
-</details>
+  - Fireworks
+  
+</select>
 
-  - <sup>Delete Current</sup>
+  - Delete Current
   
-  - <sup>Flip Up</sup>
+  - Flip Up
   
-  - <sup>Set Max Speed</sup>
+  - Set Max Speed
   
-  - [ ] <sup>Invincibility</sup>
+  <input type="checkbox"/> Invincibility
   
-  - [ ] <sup>Invisibility</sup>
+  <input type="checkbox"/> Invisibility
   
-  - [ ] <sup>Horn Boost</sup>
+  <input type="checkbox"/> Horn Boost
   
-  - [ ] <sup>Unlimited Rocket Boost</sup>
+  <input type="checkbox"/> Unlimited Rocket Boost
   
-  - <sup>Speedometer (1-4)</sup>
+  - Speedometer (1-4)
   
-  - [ ] <sup>Rainbow Colors</sup>
+  <input type="checkbox"/> Rainbow Colors
   
-  - [ ] <sup>Drive On Water</sup>
+  <input type="checkbox"/> Drive On Water
   
-  - [ ] <sup>Super Brakes</sup>
+  <input type="checkbox"/> Super Brakes
   
-</details>
+</select>
 <!-- Vehicle End -->
     
 <!-- Spawn Start -->
     
-<details>
-  <summary>Spawn</summary>
-  <br>
+<select>
+  <option>Spawn</option>
   
-  - <sup>Ped (1000+)</sup>
+<br>
   
- <details>
-   <summary>Vehicle</summary>
-   <br>
+  - Ped (1000+)
+  
+ <select>
+   <option>Vehicle</option>
    
- <details>
-   <summary>Settings</summary>
-   <br>
+<br>
    
-   - [ ] <sup>Spawn Inside</sup>
+ <select>
+   <option>Settings</option>
    
-   - [ ] <sup>Spawn Invincible</sup>
+<br>
    
-   - [ ] <sup>Spawn Max Upgraded</sup>
+   <input type="checkbox"/> Spawn Inside
    
-   - [ ] <sup>Delete Current</sup>
+   <input type="checkbox"/> Spawn Invincible
    
-   - [ ] <sup>Spawn Air Vehicles In The Air</sup>
+   <input type="checkbox"/> Spawn Max Upgraded
    
-   - <sup>License Plate Text (1-4)</sup>
+   <input type="checkbox"/> Delete Current
    
- </details>
+   <input type="checkbox"/> Spawn Air Vehicles In The Air
    
- - <sup>Previously Spawned</sup>
+   - License Plate Text (1-4)
    
- - <sup>Custom Input</sup>
+ </select>
    
- - <sup>Category (1-24)</sup>
+ - Previously Spawned
+   
+ - Custom Input
+   
+ - Category (1-24)
    
  List (750+ Cars)
    
- </details>
+ </select>
   
-  - <sup>Object (18000+)</sup>
+  - Object (18000+)
   
-</details>
+</select>
 
 <!-- End Spawn -->
     
 <!-- Start Teleport -->
     
-<details>
-  <summary>Teleport</summary>
-  <br>
+<select>
+  <option>Teleport</option>
   
-  - <sup>To Waypoint</sup>
+<br>
   
-  - [ ] <sup>Automatic Waypoint Teleport</sup>
+  - To Waypoint
   
-  - <sup>Into Personal Vehicle</sup>
+  <input type="checkbox"/> Automatic Waypoint Teleport
   
-  - <sup>Into Last Used Vehicle</sup>
+  - Into Personal Vehicle
   
-  - <sup>Objective</sup>
+  - Into Last Used Vehicle
   
-  - <sup>Coordinates</sup>
+  - Objective
   
-  - <sup>Forward</sup>
+  - Coordinates
+  
+  - Forward
   
   Custom Locations
   
-  - <sup>Save Current Location</sup>
+  - Save Current Location
   
-  - <sup>View Locations (saved)</sup>
+  - View Locations (saved)
   
   Presets
   
-  - [ ] <sup>Teleport Transition</sup>
+  <input type="checkbox"/> Teleport Transition
   
-  - <sup>Teleport to Cayo Perico Island</sup>
+  - Teleport to Cayo Perico Island
   
-<details>
-  <summary>Landmarks</summary>
-  <br>
+<select>
+  <option>Landmarks</option>
+  
+<br>
   
   40 Locations
   
-</details>
+</select>
   
-<details>
-  <summary>IPL's</summary>
-  <br>
+<select>
+  <option>IPL's</option>
+  
+<br>
   
   7 Locations
   
-</details>
+</select>
   
-<details>
-  <summary>Safehouses</summary>
-  <br>
+<select>
+  <option>Safehouses</option>
+  
+<br>
   
   12 Locations
   
-</details>
+</select>
   
-<details>
-  <summary>Underwater</summary>
-  <br>
+<select>
+  <option>Underwater</option>
+  
+<br>
   
   8 Locations
   
-</details>
+</select>
   
-<details>
-  <summary>High Altitude</summary>
-  <br>
+<select>
+  <option>High Altitude</option>
+  
+<br>
   
   13 Locations
   
-</details>
+</select>
   
-</details>
+</select>
     
 <!-- End Teleport -->
     
 <!-- Start World -->
     
-<details>
-  <summary>World</summary>
-  <br>
+<select>
+  <option>World</option>
   
-<details>
-  <summary>Time</summary>
-  <br>
+<br>
   
-  - <sup>Hour</sup>
+<select>
+  <option>Time</option>
   
-  - <sup>Minute</sup>
+<br>
   
-  - <sup>Seconds</sup>
+  - Hour
+  
+  - Minute
+  
+  - Seconds
   
   Current Time
   
-  - <sup>Game Time: xx:xx:xx</sup>
+  - Game Time: xx:xx:xx
   
-  - <sup>System Time: xx:xx:xx</sup>
+  - System Time: xx:xx:xx
   
   Miscellaneous
   
-  - [ ] <sup>Slow Motion</sup>
+  <input type="checkbox"/> Slow Motion
   
-  - [ ] <sup>Pause Time</sup>
-</details>
+  <input type="checkbox"/> Pause Time
+</select>
   
-<details>
-  <summary>Weather</summary>
-  <br>
+<select>
+  <option>Weather</option>
   
-  - <sup>Clouds (1-21)</sup>
+<br>
+  
+  - Clouds (1-21)
   
   Weather Types
   
-  - <sup>Reset</sup>
+  - Reset
   
-  - <sup>Extra Sunny</sup>
+  - Extra Sunny
   
-  - <sup>Sunny</sup>
+  - Sunny
   
-  - <sup>Cloudy</sup>
+  - Cloudy
   
-  - <sup>Smoggy</sup>
+  - Smoggy
   
-  - <sup>Foggy</sup>
+  - Foggy
   
-  - <sup>Overcast</sup>
+  - Overcast
   
-  - <sup>Stormy</sup>
+  - Stormy
   
-  - <sup>Snow</sup>
+  - Snow
   
-  - <sup>Snowlight</sup>
+  - Snowlight
   
-  - <sup>Blizzard</sup>
+  - Blizzard
   
-</details>
+</select>
   
-<details>
-  <summary>Nearby Vehicles</summary>
-  <br>
+<select>
+  <option>Nearby Vehicles</option>
   
-  - <sup>Explode Vehicles</sup>
+<br>
   
-  - <sup>Delete Vehicles</sup>
+  - Explode Vehicles
   
-  - <sup>Boost Vehicles</sup>
+  - Delete Vehicles
   
-</details>
+  - Boost Vehicles
   
-<details>
-  <summary>Nearby Peds</summary>
-  <br>
+</select>
   
-  - <sup>Explode Peds</sup>
+<select>
+  <option>Nearby Peds</option>
   
-  - <sup>Kill Peds</sup>
+<br>
   
-</details>
+  - Explode Peds
   
-  - [ ] <sup>Snow</sup>
+  - Kill Peds
   
-  - [ ] <sup>No Gravity</sup>
+</select>
   
-  - [ ] <sup>Blackout</sup>
+  <input type="checkbox"/> Snow
   
-  - <sup>Clear Area</sup>
+  <input type="checkbox"/> No Gravity
   
-</details>
+  <input type="checkbox"/> Blackout
+  
+  - Clear Area
+  
+</select>
     
 <!-- End World -->
     
 <!-- Start Session -->
     
-<details>
-  <summary>Session</summary>
-  <br>
+<select>
+  <option>Session</option>
   
-<details>
- <summary>Players</summary>
- <br>
+<br>
   
- <details>
- <summary>(player)</summary>
- <br>
+<select>
+ <option>Players</option>
+ 
+<br>
+  
+ <select>
+ <option>(player)</option>
+ 
+<br>
     
- - [ ] <sup>Spectate</sup>
+ <input type="checkbox"/> Spectate
    
- - <sup>Host Kick</sup>
+ - Host Kick
    
-<details>
-  <summary>Teleport</summary>
-  <br>
+<select>
+  <option>Teleport</option>
   
-  - <sup>Parachute To</sup>
+<br>
   
-  - <sup>Teleport To</sup>
+  - Parachute To
   
-  - <sup>Teleport Into Vehicle</sup>
+  - Teleport To
   
-</details>
+  - Teleport Into Vehicle
+  
+</select>
    
-<details>
-  <summary>Friendly</summary>
-  <br>
+<select>
+  <option>Friendly</option>
   
-  - <sup>Give All Weapons</sup>
+<br>
   
-  - <sup>Copy Outfit</sup>
+  - Give All Weapons
   
-  - <sup>Set Waypoint</sup>
+  - Copy Outfit
   
-  - <sup>Spawn Bodyguard</sup>
+  - Set Waypoint
   
-</details>
+  - Spawn Bodyguard
+  
+</select>
    
-<details>
-  <summary>Griefing</summary>
-  <br>
+<select>
+  <option>Griefing</option>
   
-<details>
-  <summary>Script Events</summary>
-  <br>
+<br>
   
-  - <sup>Single Player Kick</sup>
+<select>
+  <option>Script Events</option>
   
-  - <sup>Force Into Mission</sup>
+<br>
   
-  - <sup>CEO Kick</sup>
+  - Single Player Kick
+  
+  - Force Into Mission
+  
+  - CEO Kick
   
   Teleport
   
-<details>
-  <summary>Property</summary>
-  <br>
+<select>
+  <option>Property</option>
   
-  - <sup>125 Properties</sup>
+<br>
   
-</details>
+  - 125 Properties
   
-  - <sup>Cayo Perico Island</sup>
+</select>
   
-</details>
+  - Cayo Perico Island
   
-<details>
-  <summary>Attachments</summary>
-  <br>
+</select>
   
-  - <sup>Plate</sup>
+<select>
+  <option>Attachments</option>
   
-  - <sup>EMP</sup>
+<br>
   
-  - <sup>Beach Fire</sup>
+  - Plate
   
-  - <sup>Orange Ball</sup>
+  - EMP
   
-  - <sup>Weed</sup>
+  - Beach Fire
   
-  - <sup>Safe</sup>
+  - Orange Ball
   
-  - <sup>UFO</sup>
+  - Weed
   
-  - <sup>Toilet</sup>
+  - Safe
   
-  - <sup>Christmas Tree</sup>
+  - UFO
   
-  - <sup>Windmill</sup>
+  - Toilet
   
-  - <sup>Radar</sup>
+  - Christmas Tree
   
-  - <sup>Detach All</sup>
+  - Windmill
   
-</details>
+  - Radar
   
-  - [ ] <sup>Explode</sup>
+  - Detach All
   
-  - [ ] <sup>Freeze</sup>
+</select>
   
-  - [ ] <sup>Shake Camera</sup>
+  <input type="checkbox"/> Explode
   
-  - <sup>Set Off Vehicle Alarm</sup>
+  <input type="checkbox"/> Freeze
   
-  - <sup>Burst Vehicle Tires</sup>
+  <input type="checkbox"/> Shake Camera
   
-  - <sup>Airstrike</sup>
+  - Set Off Vehicle Alarm
   
-  - <sup>Attack To</sup>
+  - Burst Vehicle Tires
   
-  - <sup>Detach From</sup>
+  - Airstrike
   
-  - <sup>Slingshot Vehicle</sup>
+  - Attack To
   
-  - <sup>Trap</sup>
+  - Detach From
   
-  - <sup>Clone</sup>
+  - Slingshot Vehicle
   
-  - <sup>Kick out of vehicle</sup>
+  - Trap
   
-  - <sup>Spawn Enemy</sup>
+  - Clone
   
-</details>
+  - Kick out of vehicle
+  
+  - Spawn Enemy
+  
+</select>
    
-   - <sup>View Social Club Profile</sup>
+   - View Social Club Profile
   
-</details>
+</select>
   
-</details>
+</select>
   
-<details>
-  <summary>All Players</summary>
-  <br>
+<select>
+  <option>All Players</option>
   
-<details>
-  <summary>Exclusions</summary>
-  <br>
+<br>
   
-  - [ ] <sup>Exclude Self</sup>
+<select>
+  <option>Exclusions</option>
   
-  - [ ] <sup>Exclude Friends</sup>
+<br>
   
-  - [ ] <sup>Exclude Host</sup>
+  <input type="checkbox"/> Exclude Self
   
-</details>
+  <input type="checkbox"/> Exclude Friends
+  
+  <input type="checkbox"/> Exclude Host
+  
+</select>
   
   Friendly
   
-  - <sup>Give All Weapons</sup>
+  - Give All Weapons
   
   Griefing
   
-  - <sup>Teleport to Eclipse Tower</sup>
+  - Teleport to Eclipse Tower
   
-  - [ ] <sup>Freeze</sup>
+  <input type="checkbox"/> Freeze
   
-  - <sup>Kick Out Of Vehicle</sup>
+  - Kick Out Of Vehicle
   
-  - <sup>Airstrike</sup>
+  - Airstrike
   
-  - <sup>Trap</sup>
+  - Trap
   
-  - <sup>Attack Beach Fire</sup>
+  - Attack Beach Fire
   
   Miscellaneous
   
-  - <sup>Host Kick</sup>
+  - Host Kick
   
-</details>
+</select>
   
-<details>
-  <summary>Session Starter</summary>
-  <br>
+<select>
+  <option>Session Starter</option>
   
-  - [ ] <sup>Lock To Friends</sup>
+<br>
+  
+  <input type="checkbox"/> Lock To Friends
   
   Join/Change
   
-  - <sup>Change Session (1-7)</sup>
+  - Change Session (1-7)
   
-  - <sup>Join Session Containing Friends</sup>
+  - Join Session Containing Friends
   
-  - <sup>Join Session Containing Crew Members</sup>
+  - Join Session Containing Crew Members
   
   SCTV
   
-  - <sup>Start SCTV Public Session</sup>
+  - Start SCTV Public Session
   
-</details>
+</select>
   
-</details>
+</select>
     
 <!-- End Session -->
     
 <!-- Stard Protection -->
     
-<details>
-  <summary>Protection</summary>
-  <br>
+<select>
+  <option>Protection</option>
   
-  - <sup>Toggle Anti-Crash Camera</sup>
+<br>
+  
+  - Toggle Anti-Crash Camera
   
   Protection
   
-  - [ ] <sup>Block Reports</sup>
+  <input type="checkbox"/> Block Reports
   
-<details>
-  <summary>Script Events</summary>
-  <br>
+<select>
+  <option>Script Events</option>
   
-  - [ ] <sup>Block All</sup>
+<br>
+  
+  <input type="checkbox"/> Block All
   
   Script Events
   
-  - [ ] <sup>Kicks</sup>
+  <input type="checkbox"/> Kicks
   
-  - [ ] <sup>CEO Ban</sup>
+  <input type="checkbox"/> CEO Ban
   
-  - [ ] <sup>CEO Kick</sup>
+  <input type="checkbox"/> CEO Kick
   
-  - [ ] <sup>CEO Money</sup>
+  <input type="checkbox"/> CEO Money
   
-  - [ ] <sup>Property Teleport</sup>
+  <input type="checkbox"/> Property Teleport
   
-  - [ ] <sup>Cayo Perico Teleport</sup>
+  <input type="checkbox"/> Cayo Perico Teleport
   
-  - [ ] <sup>Force Into Mission</sup>
+  <input type="checkbox"/> Force Into Mission
   
-  - [ ] <sup>Bounty</sup>
+  <input type="checkbox"/> Bounty
   
-  - [ ] <sup>Clear Wanted Level</sup>
+  <input type="checkbox"/> Clear Wanted Level
   
-  - [ ] <sup>Game Banner</sup>
+  <input type="checkbox"/> Game Banner
   
-  - [ ] <sup>Crash</sup>
+  <input type="checkbox"/> Crash
   
-  - [ ] <sup>Personal Vehicle Destroyed</sup>
+  <input type="checkbox"/> Personal Vehicle Destroyed
   
-  - [ ] <sup>Remote Off Radar</sup>
+  <input type="checkbox"/> Remote Off Radar
   
-  - [ ] <sup>Send To Cutscene</sup>
+  <input type="checkbox"/> Send To Cutscene
   
-  - [ ] <sup>Send To Location</sup>
+  <input type="checkbox"/> Send To Location
   
-  - [ ] <sup>Sound Spam</sup>
+  <input type="checkbox"/> Sound Spam
   
-  - [ ] <sup>Spectate</sup>
+  <input type="checkbox"/> Spectate
   
-  - [ ] <sup>SMS</sup>
+  <input type="checkbox"/> SMS
   
-  - [ ] <sup>TSE Start</sup>
+  <input type="checkbox"/> TSE Start
   
-  - [ ] <sup>Notification</sup>
+  <input type="checkbox"/> Notification
   
-  - [ ] <sup>Interior Control</sup>
+  <input type="checkbox"/> Interior Control
   
-  - [ ] <sup>Interior Kick</sup>
+  <input type="checkbox"/> Interior Kick
   
-  - [ ] <sup>Transaction Error</sup>
+  <input type="checkbox"/> Transaction Error
   
-  - [ ] <sup>CEO Raid</sup>
+  <input type="checkbox"/> CEO Raid
   
-  - [ ] <sup>Start Activity</sup>
+  <input type="checkbox"/> Start Activity
   
-  - [ ] <sup>Give Collectable</sup>
+  <input type="checkbox"/> Give Collectable
   
-  - [ ] <sup>Warehouse Teleport</sup>
+  <input type="checkbox"/> Warehouse Teleport
   
-</details>
+</select>
   
-</details>
+</select>
     
 <!-- End Protection -->
     
 <!-- Start Recovery -->
     
-<details>
-  <summary>Recovery</summary>
-  <br>
+<select>
+  <option>Recovery</option>
   
-<details>
-  <summary>Stats</summary>
-  <br>
+<br>
   
-  - <sup>Max All Skills</sup>
+<select>
+  <option>Stats</option>
   
-  - <sup>Stamina</sup>
+<br>
   
-  - <sup>Strength</sup>
+  - Max All Skills
   
-  - <sup>Lung Capacity</sup>
+  - Stamina
   
-  - <sup>Driving</sup>
+  - Strength
   
-  - <sup>Flying</sup>
+  - Lung Capacity
   
-  - <sup>Shooting</sup>
+  - Driving
   
-  - <sup>Stealth</sup>
+  - Flying
   
-</details>
+  - Shooting
+  
+  - Stealth
+  
+</select>
   
   Money
   
-  - [ ] <sup>Loop</sup>
+  <input type="checkbox"/> Loop
   
   Unlocks
   
-  - <sup>Unlock All</sup>
+  - Unlock All
   
-  - <sup>Unlock Tattoo's</sup>
+  - Unlock Tattoo's
   
-  - <sup>Unlock Heist Vehicles</sup>
+  - Unlock Heist Vehicles
   
-  - <sup>Unlock Awards & Trophies</sup>
+  - Unlock Awards & Trophies
   
-  - <sup>Allow Character Gender Change</sup>
+  - Allow Character Gender Change
   
-  - <sup>Complete Flight School</sup>
+  - Complete Flight School
   
-  - <sup>Unlock Increased Throwables Amount</sup>
+  - Unlock Increased Throwables Amount
   
-  - <sup>Skip Casino Mission and unlock Armored Paragon</sup>
+  - Skip Casino Mission and unlock Armored Paragon
   
-  - <sup>Unlock All Bunker Missions</sup>
+  - Unlock All Bunker Missions
   
   Rank
   
-  - <sup>Player</sup>
+  - Player
   
-  - <sup>Crew</sup>
+  - Crew
   
   K/D
   
-  - <sup>Current Kills: (kills)</sup>
+  - Current Kills: (kills)
   
-  - <sup>Current Deaths: (deaths)</sup>
+  - Current Deaths: (deaths)
   
-  - <sup>Kills</sup>
+  - Kills
   
-  - <sup>Deaths</sup>
+  - Deaths
   
-  - <sup>Change</sup>
+  - Change
   
   Miscellaneous
   
-  - <sup>Set Max Nightclub Popularity</sup>
+  - Set Max Nightclub Popularity
   
-  - <sup>Redesign Character Prompt</sup>
+  - Redesign Character Prompt
   
-  - <sup>Clear Badsport</sup>
+  - Clear Badsport
   
-  - <sup>Reset Mental State</sup>
+  - Reset Mental State
   
   ATM
   
-  - <sup>Move Wallet To Bank</sup>
+  - Move Wallet To Bank
   
-  - <sup>Move Bank To Wallet</sup>
+  - Move Bank To Wallet
   
-</details>
+</select>
     
 <!-- Recovery End -->
     
 <!-- Miscellaneous Start -->
     
-<details>
-  <summary>Miscellaneous</summary>
-  <br>
+<select>
+  <option>Miscellaneous</option>
+  
+<br>
   <!-- Submenus -->
-<details>
-  <summary>Report Statistics</summary>
-  <br>
+<select>
+  <option>Report Statistics</option>
+  
+<br>
   
   16 Player Report Statistic Values
   
-</details>
+</select>
   <!-- -->
-<details>
-  <summary>Disables</summary>
-  <br>
+<select>
+  <option>Disables</option>
   
-  - [ ] <sup>Idle Kick</sup>
+<br>
   
-  - [ ] <sup>Transaction Error Warnings</sup>
+  <input type="checkbox"/> Idle Kick
   
-  - [ ] <sup>Cutscenes</sup>
+  <input type="checkbox"/> Transaction Error Warnings
   
-  - [ ] <sup>Mobile Phone</sup>
+  <input type="checkbox"/> Cutscenes
   
-</details>
+  <input type="checkbox"/> Mobile Phone
+  
+</select>
   <!-- -->
-<details>
-  <summary>GXT Editor</summary>
-  <br>
+<select>
+  <option>GXT Editor</option>
   
-  - <sup>Add</sup>
+<br>
+  
+  - Add
   
   Strings
   
-  - [ ] <sup>(added strings)</sup>
+  <input type="checkbox"/> (added strings)
   
-</details>
+</select>
   <!-- -->
-<details>
-  <summary>In-Game Television</summary>
-  <br>
+<select>
+  <option>In-Game Television</option>
   
-  - [ ] <sup>Draw TV</sup>
+<br>
+  
+  <input type="checkbox"/> Draw TV
   
   Playlist
   
-  - <sup>(21 tv channels)</sup>
+  - (21 tv channels)
   
-</details>
+</select>
   <!-- -->
-<details>
-  <summary>Radio</summary>
-  <br>
+<select>
+  <option>Radio</option>
   
-  - <sup>Skip Track</sup>
+<br>
   
-  - [ ] <sup>Freeze Station</sup>
+  - Skip Track
   
-  - [ ] <sup>Mobile Radio</sup>
+  <input type="checkbox"/> Freeze Station
   
-</details>
+  <input type="checkbox"/> Mobile Radio
+  
+</select>
   <!-- -->
-<details>
-  <summary>Extra-sensory Perception</summary>
-  <br>
+<select>
+  <option>Extra-sensory Perception</option>
   
-  - [ ] <sup>Basic Player ESP</sup>
+<br>
   
-</details>
+  <input type="checkbox"/> Basic Player ESP
+  
+</select>
   <!-- -->
-<details>
-  <summary>Head-up Display</summary>
-  <br>
+<select>
+  <option>Head-up Display</option>
   
-  - [ ] <sup>Disable HUD</sup>
+<br>
   
-  - [ ] <sup>Hide Minimap</sup>
+  <input type="checkbox"/> Disable HUD
+  
+  <input type="checkbox"/> Hide Minimap
   
   Color
   
-  - <sup>Component</sup>
+  - Component
   
-  - <sup>Red</sup>
+  - Red
   
-  - <sup>Green</sup>
+  - Green
   
-  - <sup>Blue</sup>
+  - Blue
   
-  - <sup>Alpha</sup>
+  - Alpha
   
-  - <sup>Set</sup>
+  - Set
   
-  - <sup>Reset Color</sup>
+  - Reset Color
   
-</details>
+</select>
   <!-- -->
-<details>
-  <summary>IPL Loader</summary>
-  <br>
+<select>
+  <option>IPL Loader</option>
   
-  - <sup>GTA:O Map Data (1-2)</sup>
+<br>
+  
+  - GTA:O Map Data (1-2)
   
   Item Placement Files
   
-  - <sup>North Yankton</sup>
+  - North Yankton
   
-  - <sup>Dignity Heist Yacht</sup>
+  - Dignity Heist Yacht
   
-  - <sup>Destroyed Hospital</sup>
+  - Destroyed Hospital
   
-  - <sup>Jewelry Store</sup>
+  - Jewelry Store
   
-  - <sup>Morgue</sup>
+  - Morgue
   
-  - <sup>Cargoship</sup>
+  - Cargoship
   
-  - <sup>Aircraft Carrier</sup>
+  - Aircraft Carrier
   
-</details>
+</select>
   
   <!-- End submenus -->
   
-  - <sup>Fake Wanted Level</sup>
+  - Fake Wanted Level
   
-  - [ ] <sup>No-Clip</sup>
+  <input type="checkbox"/> No-Clip
   
-  - [ ] <sup>Jump Around Mode</sup>
+  <input type="checkbox"/> Jump Around Mode
   
-  - [ ] <sup>Show Joining Players Notification</sup>
+  <input type="checkbox"/> Show Joining Players Notification
   
-  - [ ] <sup>Show FPS</sup>
+  <input type="checkbox"/> Show FPS
   
-  - <sup>Drive To Waypoint</sup>
+  - Drive To Waypoint
   
-  - <sup>Get Empty Session</sup>
+  - Get Empty Session
   
-  - <sup>Exit to Single Player</sup>
+  - Exit to Single Player
   
-</details>
+</select>
     
 <!-- End Miscellaneous -->
     
 <!-- Start Settings -->
     
-<details>
-  <summary>Settings</summary>
-  <br>
+<select>
+  <option>Settings</option>
   
-<details>
-  <summary>Theme</summary>
-  <br>
+<br>
   
-  - <sup>Saved</sup>
+<select>
+  <option>Theme</option>
   
-  - <sup>Current</sup>
+<br>
   
-  - <sup>Create New</sup>
+  - Saved
+  
+  - Current
+  
+  - Create New
   
   Header
   
-  - [ ] <sup>Texture</sup>
+  <input type="checkbox"/> Texture
   
-  - [ ] <sup>Background</sup>
+  <input type="checkbox"/> Background
   
   Color
   
-  - [ ] <sup>RGB Disco</sup>
+  <input type="checkbox"/> RGB Disco
   
-  - <sup>Primary</sup>
+  - Primary
   
-  - <sup>Text</sup>
+  - Text
   
   Font
   
-  - <sup>Type (1-6)</sup>
+  - Type (1-6)
   
   Menu
   
-  - [ ] <sup>Disable Open/Close Fade</sup>
+  <input type="checkbox"/> Disable Open/Close Fade
   
-  - <sup>X-Axis</sup>
+  - X-Axis
   
-  - <sup>Y-Axis</sup>
+  - Y-Axis
   
-  - <sup>Width</sup>
+  - Width
   
-  - <sup>Selectable Height</sup>
+  - Selectable Height
   
-  - <sup>Reset Position & Width</sup>
+  - Reset Position & Width
   
   Selectable Information Box
   
-  - <sup>X-Axis</sup>
+  - X-Axis
   
-  - <sup>Y-Axis</sup>
+  - Y-Axis
   
-  - <sup>Reset Position</sup>
+  - Reset Position
   
-</details>
+</select>
   
-<details>
-  <summary>Hide Elements</summary>
-  <br>
+<select>
+  <option>Hide Elements</option>
   
-  - [ ] <sup>Selectable Information Box</sup>
+<br>
   
-  - [ ] <sup>Player Information Box</sup>
+  <input type="checkbox"/> Selectable Information Box
   
-  - [ ] <sup>Vehicle Preview</sup>
+  <input type="checkbox"/> Player Information Box
   
-</details>
+  <input type="checkbox"/> Vehicle Preview
   
-  - <sup>Max Visible Menu Selectables</sup>
+</select>
   
-  - [ ] <sup>Restore To Previous Submenu</sup>
+  - Max Visible Menu Selectables
+  
+  <input type="checkbox"/> Restore To Previous Submenu
   
   Keys
   
-  - <sup>Menu GUI: (key)</sup>
+  - Menu GUI: (key)
   
-  - <sup>Cursor Navigation: (key)</sup>
+  - Cursor Navigation: (key)
   
-  - <sup>Save Selectable: (key)</sup>
+  - Save Selectable: (key)
   
-  - <sup>Key Press Delay</sup>
+  - Key Press Delay
   
-  - <sup>Menu Arrow Animation Delay</sup>
+  - Menu Arrow Animation Delay
   
-  - [ ] <sup>Gameplay While Cursor Is Active</sup>
+  <input type="checkbox"/> Gameplay While Cursor Is Active
   
-  - [ ] <sup>Safe Mode</sup>
+  <input type="checkbox"/> Safe Mode
   
-  - [ ] <sup>Disable Cursor When Menu Gets Closed</sup>
+  <input type="checkbox"/> Disable Cursor When Menu Gets Closed
   
-  - [ ] <sup>Do not overwrite "Textures.ytd" at init</sup>
+  <input type="checkbox"/> Do not overwrite "Textures.ytd" at init
   
-<details>
-  <summary>About</summary>
-  <br>
+<select>
+  <option>About</option>
+  
+<br>
   
   Author: TnyavnTo
   
-  - <sup>Visit GitHub Repository</sup>
+  - Visit GitHub Repository
   
-  - <sup>Unload Cheat</sup>
+  - Unload Cheat
  
-</details>
+</select>
   
-</details>
+</select>
     
+
 <br>
     
 ___
