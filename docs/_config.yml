@@ -8,4 +8,4 @@ show_downloads: true
 google_analytics: G-FGJKN4HRMN
 github:
   zip_url: https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu/releases/latest/download/TnyavnTosGTA5ModMenu.dll
-  another_url: another value
+  repository_url: https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu

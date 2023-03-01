@@ -20,443 +20,187 @@
 
 <h3 align=center>Download <a href='https://github.com/svxy/tnyavntos-module-injector'>my injector</a> and the <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu/releases/latest/download/TnyavnTosGTA5ModMenu.dll'>latest menu release</a>.</h3>
 
-___
-
-
-<br>
+<br><br>
 
 <h2 align=center>Full Features List:</h2>
 
-
-<br>
-<!-- Self  Start -->
-<select>
-  
-  
-<option>Self</option>
-
-
-<br>
-
-<select>
-  <option>Model</option>
-  
 <br>
   
-  - Custom Input
-  
-  Ped List
-  
-  - Search
-  
-  (Ped list - 1000+ Peds)
-  </select>
-  
-  
-<select>
-  <option>Wardrobe</option>
-  
-<br>
-  
-   Components
-  
-  - Saved
-  
-  - Current: (outfit)
-  
-  - Create
-  
-  - Component (Head, Shirt, Pants, etc)
-  
-  - Drawable
-  
-  - Drawable Variation
-  
-  - Palette
-  
-  - Clear
-  
-   Props
-  
-  - Prop (Hat, Chain, Gloves, etc)
-  
-  - Drawable
-  
-  - Drawable Variation
-  
-  - Clear
-  
-   Hair
-  
-  - Color
-  
-   Miscellaneous
-  
-  - Random Components
-  
-  - Random Props
-  
-  
-  </select>
-
-<select>
-  <option>Globals</option>
-  
-<br>
-  
-  - Get BST
-  
-  <input type="checkbox"/> Off Radar
-  
-  <input type="checkbox"/> Cops Turn Blind Eye
-  
-  <input type="checkbox"/> No Orbital Cannon Cooldown
-  
-  - Request Service (RC, MOC, Terrorbyte etc)
-  </select>
-  
-<select>
-  <option>Animations</option>
-  
-<br>
-  
-  <input type="checkbox"/> Controllable
-  
-  - Stop Animation
-  
-  - Animations (Sex, Pole Dance, Workouts etc)
-  
-  - Scenarios
-  </select>
-  
-<select>
-  <option>Vision</option>
-  
-<br>
-  
-  - Reset
-  
-  Visions
-  
-  - Timecycle
-  
-  - Stoned
-  
-  - Orange
-  
-  - Cocaine
-  
-  - Huffin Gas
-  
-  - Wobbly
-  
-  - Drunk
-  
-  - Heaven
-  
-  - 3D
-  
-  - Killstreak
-  
-  - Hallucinations
-  
-  - Low Quality
-  
-  - Blurry
-  
-  - "Fucked Up" Screen
-  </select>
-  
-  <input type="checkbox"/> God mode
-  
+- Self
+  - Model
+    - Custom Input
+    - Search
+    - (Ped list - 1000+ Peds)
+  - Wardrobe 
+    - Saved
+    - Current: (outfit)
+    - Create
+    - Component (Head, Shirt, Pants, etc)
+    - Drawable
+    - Drawable Variation
+    - Palette
+    - Clear
+  - Props
+    - Prop (Hat, Chain, Gloves, etc)
+    - Drawable
+    - Drawable Variation
+    - Clear
+  - Hair
+    - Color
+    - Miscellaneous
+    - Random Components
+    - Random Props
+  - Globals</option>
+    - Get BST
+    - <input type="checkbox"/> Off Radar
+    - <input type="checkbox"/> Cops Turn Blind Eye
+    - <input type="checkbox"/> No Orbital Cannon Cooldown
+    - Request Service (RC, MOC, Terrorbyte etc)
+  - Animations
+    - <input type="checkbox"/> Controllable
+    - Stop Animation
+    - Animations (Sex, Pole Dance, Workouts etc)
+    - Scenarios
+  - Vision
+    - Reset
+      -Visions
+      - Timecycle
+      - Stoned
+      - Orange
+      - Cocaine
+      - Huffin Gas
+      - Wobbly
+      - Drunk
+      - Heaven
+      - 3D
+      - Killstreak
+      - Hallucinations
+      - Low Quality
+      - Blurry
+      - "Fucked Up" Screen
+  - <input type="checkbox"/> God mode
   - Health
-  
   - Max Health
-  
-  <input type="checkbox"/> No Ragdoll
-  
+  - <input type="checkbox"/> No Ragdoll
   - Jump (1-3)
-  
   - Sprint Speed (1-3)
-  
   - Invisibility (1-4)
-  
-  <input type="checkbox"/> Never Wanted
-  
+  - <input type="checkbox"/> Never Wanted
   - Wanted Level
-  
-  <input type="checkbox"/> Explosive Melee
-  
-  <input type="checkbox"/> Tiny Player
-  
-  <input type="checkbox"/> Super Man
-  
+  - <input type="checkbox"/> Explosive Melee
+  - <input type="checkbox"/> Tiny Player
+  - <input type="checkbox"/> Super Man
   - Opacity
-  
   - Suicide
-  
   - Clean
-</select>
-
-<!-- Self End -->
-  
-<!-- Weapons  Start -->
-<select>
-  
-  
-<option>Weapons</option>
-
-<br>
-
- <select>
-   <option>Weapons</option>
-   
-<br>
-    
-   - Get All Weapons
-    
-   - Clear All Weapons
-    
-   Upgrades
-    
-   - Max Upgrade All Weapons
-    
-   - Max Upgrade Current Weapon
-    
-   Auto
-    
-   <input type="checkbox"/> Auto Get All Weapons
-    
-   <input type="checkbox"/> Auto Get All Weapon Upgrades
-    
-   Color
-    
-   <input type="checkbox"/> Rainbow Gun
-  </select>
- 
-  <select>
-   <option>Visuals</option>
-   
-<br>
-    
-   <input type="checkbox"/> Weapon Invisibility
-    
-   <input type="checkbox"/> Crosshair
-    
-   <input type="checkbox"/> Crosshair -> ADS Only
-    
-   <input type="checkbox"/> Entity Information Gun
-  </select>
-  
-  <select>
-   <option>Ammo Modifications</option>
-   
-<br>
-    
-   - Impact (1-6)
-    
-   - Custom (1-5)
-    
-   - Particle (1-2)
-    
-   Options
-    
-   <input type="checkbox"/> Delete Gun
-    
-   <input type="checkbox"/> Nerf Bullets
-  </select>
-  
-  <select>
-   <option>Shoot Entities</option>
-   
-<br>
-    
-   <input type="checkbox"/> Toggle
-    
-   - Current: (Entity)
-    
-   - Custom Entity
-  </select>
-  
-  General
-  
-  <input type="checkbox"/> No Reload
-  
-  <input type="checkbox"/> Infinite Ammo
-  
-  <input type="checkbox"/> Rapid Fire
-  
-  <input type="checkbox"/> Bypass Sticky Bomb Limit
-  
-  <input type="checkbox"/> One Shot One Kill
-  
+- Weapons
+  - Weapons</option>
+    - Get All Weapons
+    - Clear All Weapons
+  - Upgrades
+    - Max Upgrade All Weapons
+    - Max Upgrade Current Weapon
+  - Auto
+    - <input type="checkbox"/> Auto Get All Weapons
+    - <input type="checkbox"/> Auto Get All Weapon Upgrades
+  - Color
+    - <input type="checkbox"/> Rainbow Gun
+  - Visuals
+    - <input type="checkbox"/> Weapon Invisibility
+    - <input type="checkbox"/> Crosshair
+    - <input type="checkbox"/> Crosshair -> ADS Only
+    - <input type="checkbox"/> Entity Information Gun
+  - Ammo Modifications
+    - Impact (1-6)
+    - Custom (1-5)
+    - Particle (1-2)
+  - Options
+    - <input type="checkbox"/> Delete Gun
+    - <input type="checkbox"/> Nerf Bullets
+  - Shoot Entities
+    - <input type="checkbox"/> Toggle
+    - Current: (Entity)
+    - Custom Entity
+  - General
+    - <input type="checkbox"/> No Reload
+    - <input type="checkbox"/> Infinite Ammo
+    - <input type="checkbox"/> Rapid Fire
+    - <input type="checkbox"/> Bypass Sticky Bomb Limit
+    - <input type="checkbox"/> One Shot One Kill
   - Triggerbot (1-4)
-  
-  Entity Control
-  
-  <input type="checkbox"/> Gravity Gun
-  
-  - Entity Distance
-</select>
-
-<!-- Weapons End -->
-  
-<!-- Vehicle Start -->
-<select>
-  <option>Vehicle</option>
-  
-<br>
-  
-<select>
-  <option>Los Santos Customs</option>
-  
-<br>
-  
-  - Repair
-  
-  - Clean
-  
-  - Max Upgrade
-  
-  - Max Downgrade
-  
-  - Change License Plate Text
-  
-<select>
-  <option>Color</option>
-  
-<br>
- 
-  - Primary Color: Red
-  
-  - Primary Color: Green
-  
-  - Primary Color: Blue
-  
-  - Set Primary Color
-  
-  - Secondary Color: Red
-  
-  - Secondary Color: Green
-  
-  - Secondary Color: Blue
-  
-  - Set Secondary Color
-  
-</select>
-  
-<select>
-  <option>Neon</option>
-  
-<br>
- 
-  - Enable Neons
-  
-  - Disable Neons
-  
-  - Neon Color: Red
-  
-  - Neon Color: Green
-  
-  - Neon Color: Blue
-  
-  - Set Neon Color
-  
-  Neon Presets
-  
-  - Red
-  
-  - Green
-  
-  - Blue
-  
-  - Hot Pink
-  
-  - Yellow
-  
-  - Orange
-  
-  - Aqua
-  
-  - White
-  
-  - Magenta
-  
-  - Purple
-  
-  - Dark Green
-  
-  - Rose Red
-  
-</select>
-  
-<select>
-  <option>Multipliers</option>
-  
-<br>
-  
-  - Engine Multiplier
-  
-  - Engine Torque Multiplier
-  
-  - Set
- 
-</select>  
-  
-  Doors
-  
-  - Open (1-8)
-  
-  - Close (1-8)
-  
-</select>
-  
-<select>
-  <option>Weapons</option>
-  
-<br>
-  
-  <input type="checkbox"/> Toggle
-  
-  <input type="checkbox"/> Show Lines
-  
-  - Current: (Weapon)
-  
-  - Tank Rounds
-  
-  - Vehicle Rockets
-  
-  - Fireworks
-  
-</select>
-
+  - Entity Control
+    - <input type="checkbox"/> Gravity Gun
+    - Entity Distance
+- Vehicle
+  - Los Santos Customs</option>
+    - Repair  
+    - Clean
+    - Max Upgrade
+    - Max Downgrade
+    - Change License Plate Text
+    - Color
+      - Primary Color: Red
+      - Primary Color: Green
+      - Primary Color: Blue
+      - Set Primary Color
+      - Secondary Color: Red
+      - Secondary Color: Green
+      - Secondary Color: Blue
+      - Set Secondary Color
+      - Neon</option>
+        - Enable Neons
+        - Disable Neons
+        - Neon Color: Red
+        - Neon Color: Green
+        - Neon Color: Blue
+        - Set Neon Color
+      - Neon Presets
+        - Red
+        - Green
+        - Blue
+        - Hot Pink
+        - Yellow
+        - Orange
+        - Aqua
+        - White
+        - Magenta
+        - Purple
+        - Dark Green
+        - Rose Red
+    - Multipliers
+      - Engine Multiplier
+      - Engine Torque Multiplier
+      - Set
+    - Doors
+      - Open (1-8)
+      - Close (1-8)
+  - Weapons
+    - <input type="checkbox"/> Toggle
+    - <input type="checkbox"/> Show Lines
+    - Current: (Weapon)
+    - Tank Rounds
+    - Vehicle Rockets
+    - Fireworks
   - Delete Current
-  
   - Flip Up
-  
   - Set Max Speed
-  
-  <input type="checkbox"/> Invincibility
-  
-  <input type="checkbox"/> Invisibility
-  
-  <input type="checkbox"/> Horn Boost
-  
-  <input type="checkbox"/> Unlimited Rocket Boost
-  
+  - <input type="checkbox"/> Invincibility
+  - <input type="checkbox"/> Invisibility
+  - <input type="checkbox"/> Horn Boost
+  - <input type="checkbox"/> Unlimited Rocket Boost
   - Speedometer (1-4)
+  - <input type="checkbox"/> Rainbow Colors
+  - <input type="checkbox"/> Drive On Water
+  - <input type="checkbox"/> Super Brakes
   
-  <input type="checkbox"/> Rainbow Colors
-  
-  <input type="checkbox"/> Drive On Water
-  
-  <input type="checkbox"/> Super Brakes
-  
-</select>
-<!-- Vehicle End -->
-    
+<br>
+
+<h2 align=center><span style="color: #ffcc00;">&#9888;List Currently Under Work&#9888;</span></h2>
+
+<h4 align=center><sup>I apologize for the lack of detail on this list, it's going to take me hours to reformat it for GitHub Pages from the original <a href='https://github.com/Svxy/TnyavnTos-GTA5-Mod-Menu#readme' target='_blank'>README</a>, and I dont quite have the time today to finish it up. For now, why not check the menu out yourself? Give it a download along with my injector, and maybe give me some feedback!<br><br>Discord: <span style="color: #ffcc00;">tnyavnto#0420</span></sup></h4>
+
 <!-- Spawn Start -->
-    
+<!--
 <select>
   <option>Spawn</option>
   
@@ -504,7 +248,7 @@ ___
 
 <!-- End Spawn -->
     
-<!-- Start Teleport -->
+<!-- Start Teleport 
     
 <select>
   <option>Teleport</option>
@@ -586,7 +330,7 @@ ___
     
 <!-- End Teleport -->
     
-<!-- Start World -->
+<!-- Start World 
     
 <select>
   <option>World</option>
@@ -686,7 +430,7 @@ ___
     
 <!-- End World -->
     
-<!-- Start Session -->
+<!-- Start Session 
     
 <select>
   <option>Session</option>
@@ -898,7 +642,7 @@ ___
     
 <!-- End Session -->
     
-<!-- Stard Protection -->
+<!-- Stard Protection 
     
 <select>
   <option>Protection</option>
@@ -980,7 +724,7 @@ ___
     
 <!-- End Protection -->
     
-<!-- Start Recovery -->
+<!-- Start Recovery 
     
 <select>
   <option>Recovery</option>
@@ -1072,13 +816,13 @@ ___
     
 <!-- Recovery End -->
     
-<!-- Miscellaneous Start -->
+<!-- Miscellaneous Start 
     
 <select>
   <option>Miscellaneous</option>
   
 <br>
-  <!-- Submenus -->
+  <!-- Submenus 
 <select>
   <option>Report Statistics</option>
   
@@ -1087,7 +831,7 @@ ___
   16 Player Report Statistic Values
   
 </select>
-  <!-- -->
+  <!-- 
 <select>
   <option>Disables</option>
   
@@ -1102,7 +846,7 @@ ___
   <input type="checkbox"/> Mobile Phone
   
 </select>
-  <!-- -->
+  <!-- -
 <select>
   <option>GXT Editor</option>
   
@@ -1115,7 +859,7 @@ ___
   <input type="checkbox"/> (added strings)
   
 </select>
-  <!-- -->
+  <!-- 
 <select>
   <option>In-Game Television</option>
   
@@ -1128,7 +872,7 @@ ___
   - (21 tv channels)
   
 </select>
-  <!-- -->
+  <!-- 
 <select>
   <option>Radio</option>
   
@@ -1141,7 +885,7 @@ ___
   <input type="checkbox"/> Mobile Radio
   
 </select>
-  <!-- -->
+  <!-- 
 <select>
   <option>Extra-sensory Perception</option>
   
@@ -1150,7 +894,7 @@ ___
   <input type="checkbox"/> Basic Player ESP
   
 </select>
-  <!-- -->
+  <!-- 
 <select>
   <option>Head-up Display</option>
   
@@ -1177,7 +921,7 @@ ___
   - Reset Color
   
 </select>
-  <!-- -->
+
 <select>
   <option>IPL Loader</option>
   
@@ -1203,7 +947,7 @@ ___
   
 </select>
   
-  <!-- End submenus -->
+  <!-- End submenus 
   
   - Fake Wanted Level
   
@@ -1224,8 +968,8 @@ ___
 </select>
     
 <!-- End Miscellaneous -->
-    
-<!-- Start Settings -->
+
+<!-- Start Settings 
     
 <select>
   <option>Settings</option>
@@ -1337,6 +1081,7 @@ ___
   
 </select>
     
+-->
 
 <br>
     
