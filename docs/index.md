@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<h3 align=center><b><sup>🚫Unfortunately TnyavnTos GTA 5 Mod Menu and TnyavnTos Module Injector will no longer be updated or managed🚫</sup></b></h3>
+
+<br>
+
 <h4 align=center>Now has Nightclub Safe loop - $250k/4sec</h4>
 
 <p align=center>NOTE: Recovery Submenu locked until Safe Mode is turned off in settings.</p>
